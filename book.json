@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "sectionx-collapse",
+        "youtube",
+        "youtubex"
+    ],
+    "pluginsConfig": {}
+}
