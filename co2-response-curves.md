@@ -1,3 +1,4 @@
+# Fitting Ac-Ci Curves
 We are going to follow along with a Vignette that explains how to fit response curves using R
 
 We'll use PEcAn - you'll use PEcAn next week to do some data assimilation
@@ -39,7 +40,7 @@ knitr::opts_chunk$set(cache = TRUE)
 library(PEcAn.photosynthesis)
 ```
 
-## The plantecophys package:
+## The plantecophys package
 
 * Modelling and Analysis of Leaf Gas Exchange Data
 * Coupled leaf gas exchange model, A-Ci curve simulation and fitting, 
