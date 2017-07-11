@@ -9,4 +9,5 @@
 * [Readings](readings.md)
 * [Exercises](exercises.md)
   * [Fitting A-Ci Curves](co2-response-curves.md)
+  * [Stomatal Conductance Modeling ](stomatal-conductance-modeling.md)
 
