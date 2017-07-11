@@ -42,10 +42,10 @@ library(rjags)
 
 ### This step might take a while
 
-if (!require("PEcAn.photosynthesis", character.only = TRUE)) {
+#if (!require("PEcAn.photosynthesis", character.only = TRUE)) {
 devtools::install_github("PecanProject/pecan/modules/photosynthesis", 
                          ref = "release/1.5.0")
-}
+#}
 
 knitr::opts_chunk$set(cache = TRUE)
 
