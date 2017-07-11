@@ -2,6 +2,7 @@
 
 Below is a dataset containing meteorological observations and tower-derived GPP estimates collected at MMSF during the course of a severe drought occurring in 2012.
 
+The data can be downloaded [here](https://raw.githubusercontent.com/Fluxcourse/Lecture_materials/master/Stomatal%20Conductance/FluxCourse_GSmodeling%201.txt?raw=true "here")
 ```
 DOY    Hour    VPD (kPa)    SWP (Mpa)    VWC (m3/m3)    Par (umol/m2/s)    CO2 (ppm)    GPP (umol/m2/s)    
 161.00    13.00    1.78    -0.31    24.16    1581.51    378.88    31.17    
