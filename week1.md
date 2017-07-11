@@ -43,16 +43,16 @@
 [//]: # (Hidden from students:FileRuss Monson - The Eddy Flux File )
 [//]: # (Hidden from students:FolderReading Material for Russ - The Eddy Flux )
 
-[//]: # Farquhar Model F File
+- Farquhar Model F File
 
-[//]:- PS-FIT 7.3 excel file
-[//]:- Carl Bernacchi - Chloroplast- and Leaf-Level Flux Modeling File
-[//]:- Hidden from students:FileRuss Monson - The Eddy Flux File
-[//]:- Hidden from students:FolderReading Material for Russ - The Eddy Flux Folder
-[//]:- Paper Pencil Excercise File
-[//]:- Andrew Leakey - Measurement, analysis and interpretation of leaf photosynthetic gas exchange File
-[//]:– Russ Monson - C4 Photosynthesis File
-[//]:– Ed's pen and pencil exercise & recommended papers (WPL etc) File
+- PS-FIT 7.3 excel file
+- Carl Bernacchi - Chloroplast- and Leaf-Level Flux Modeling File
+- Hidden from students:FileRuss Monson - The Eddy Flux File
+- Hidden from students:FolderReading Material for Russ - The Eddy Flux Folder
+- Paper Pencil Excercise File
+- Andrew Leakey - Measurement, analysis and interpretation of leaf photosynthetic gas exchange File
+– Russ Monson - C4 Photosynthesis File
+– Ed's pen and pencil exercise & recommended papers (WPL etc) File
 
 
 ### Wednesday, week 1 - Eddy flux Instruments and data; uncertainty & organization 
