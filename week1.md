@@ -4,11 +4,10 @@
 
 |||
 |:------------------|:------------------| 
-| 8:30 AM –  9:00 AM| Dave Moore: Welcome and Introduction to the Course | 
-| 9:00 AM –  9:30 AM| Flux Observations: History & Context (Kim Novick) | 
-| 9:30 AM – 10:30 AM| Team Licor: Introduction to leaf level flux measurements (Aaron Saathoff & Tom Avenson)|
-|10:30 AM – 10:45 AM| Break |
-|10:45 AM – 12:15 PM| Team Licor: Leaf-level flux measurements continued (Aaron Saathoff & Tom Avenson)|
+| 8:30 AM –  9:30 AM| Dave Moore: Welcome and Introduction to the Course | 
+| 9:30 AM – 10:45 AM| Team Licor: Introduction to leaf level flux measurements (Aaron Saathoff & Tom Avenson)|
+|10:45 AM – 11:00 AM| Break |
+|11:00 AM – 12:30 PM| Team Licor: Leaf-level flux measurements continued (Aaron Saathoff & Tom Avenson)|
 |12:30 PM –  1:30 PM| Lunch |
 | 1:30 PM –  4:30 PM| Hands-on Work with Infra-red gas analyzer (Measurements of A:Ci curves and A:PPFD curves on aspen leaves, Aaron Saathoff, Tom Avenson & Dave Moore) |
 | 4:30 PM –  5:00 PM| Debrief gas exchange measurements (Aaron Saathoff, Kim Novick)|
