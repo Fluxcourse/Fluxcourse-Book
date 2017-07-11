@@ -8,5 +8,5 @@
   * [Week 2](week-2.md)
 * [Readings](readings.md)
 * [Exercises](exercises.md)
-  * [CO2 Response Curves](co2-response-curves.md)
+  * [Fitting A-Ci Curves](co2-response-curves.md)
 
