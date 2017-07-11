@@ -88,7 +88,7 @@ For example : `C:\Users\dmoore\Documents\R\R-3.4.0\library\PEcAn.photosynthesis\
 
 The command system.file\(\)\` in R allows you to call up folders relevant to a particular package. This commant looks in the folder, scans for files with aci or aq in the filename and writes these names \(and their full path\) to the R object "filenames".
 
-```
+```R
 ## Get list of LI-COR 6400 file names (ASCII not xls)
 filenames <- system.file("extdata", paste0("flux-course-",rep(1:6,each=2),c("aci","aq")), package = "PEcAn.photosynthesis")
 
@@ -118,7 +118,11 @@ You can do the same process with your own data .... you just need to point R to 
 
 The code below performs a set of interactive QA/QC checks on the LI-COR data that's been loaded.
 
-If you have more than one file loaded into the \`master\` list, you may only want to run the function for one file, rather than looping over all the files. 
+```R
+master[[1]] <- Licor_QC(master[[1]])
+```
+
+If you have more than one file loaded into the \`master\` list, you may only want to run the function for one file, rather than looping over all the files.
 
 ```R
 master[[1]] <- Licor_QC(master[[1]])
