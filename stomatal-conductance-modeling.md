@@ -54,9 +54,13 @@ Use the data to generate estimates of stomatal conductance using the Leuning mod
 $$ g_s = \frac{m_2 A}{s_s - \Gamma}(1 + \frac{D}{D_o})^{-1} + b_2 $$
 
 Let:  
-$$D_o$$ = 1.1 kPa  
-$$b_2$$ = .001 mol/m2/s  
+
+$$D_o$$ = 1.1 kPa 
+ 
+$$b_2$$ = .001 mol/m2/s 
+ 
 $$m_2$$ = 6.5 dimensionless  
+
 $$\Gamma$$ = 50 ppm
 
 ### Hydraulic Model
@@ -64,9 +68,13 @@ $$\Gamma$$ = 50 ppm
 $$g_s = \frac{K(\Psi_s - \Psi_L -pgh)}{VPD}$$
 
 Let:  
+
 $$K$$ = 0.3 mol/m2/s  
+
 $$pgh$$ = 0.3 \(appropriate for a 30-m-tall tree\)  
+
 Assume:  
+
 constant $$\Psi_L$$ = -1.8 MPa \(isohydric species\)
 
 ### Optimality Model
@@ -74,6 +82,8 @@ constant $$\Psi_L$$ = -1.8 MPa \(isohydric species\)
 $$g_s^* \approx g_0 + 1.6(1+ \frac{g_1}{\sqrt{D}})\frac{A}{C_a}$$
 
 Let:  
-$$g_0$$ = .001 mol/m2/s  
+
+$$g_0$$ = .001 mol/m2/s 
+ 
 $$g_1$$ = 2
 
