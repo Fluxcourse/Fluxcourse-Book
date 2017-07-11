@@ -39,14 +39,14 @@ knitr::opts_chunk$set(cache = TRUE)
 library(PEcAn.photosynthesis)
 ```
 
-## The plantecophys package: 
+## The plantecophys package:
 
 * Modelling and Analysis of Leaf Gas Exchange Data
 * Coupled leaf gas exchange model, A-Ci curve simulation and fitting, 
 * Ball-Berry stomatal conductance models, leaf energy balance using Penman-Monteith,
 * Cowan-Farquhar optimization, humidity unit conversions.
 
-https://cran.r-project.org/web/packages/plantecophys/index.html
+[https://cran.r-project.org/web/packages/plantecophys/index.html](https://cran.r-project.org/web/packages/plantecophys/index.html)
 
 ```R
 # IN CASE YOU JUST ABOLUTELY HAVE TO HAVE THE LATEST VERSION
@@ -114,21 +114,15 @@ You can do the same process with your own data .... you just need to point R to 
 # master = read_Licor(my_data)
 ```
 
-
-
 # QA/QC Checks
 
 The code below performs a set of interactive QA/QC checks on the LI-COR data that's been loaded.
 
-```R
+If you have more than one file loaded into the \`master\` list, you may only want to run the function for one file, rather than looping over all the files. 
 
+```R
+master[[1]] <- Licor_QC(master[[1]])
 ```
 
-\#
 
-\# If you want to get a feel for how the code works you'll want to run it first on just one file,
-
-\# rather than looping over all the files
-
-master\[\[1\]\] &lt;- Licor\_QC\(master\[\[1\]\]\)
 
