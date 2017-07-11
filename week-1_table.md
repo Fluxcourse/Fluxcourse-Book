@@ -54,8 +54,6 @@
 | 3:00 PM – 3:30 PM   | Tour of CampbellScientific Instrumentation |
 | 3:30 PM – 6:00 PM   | Students continue work on projects       |
 | 6:00 PM – 7:00 PM   | Dinner                                   |
-|                     |                                          |
-|                     |                                          |
 
 # Friday
 
