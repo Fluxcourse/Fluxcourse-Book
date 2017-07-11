@@ -2,7 +2,8 @@
     "plugins": [
         "sectionx-collapse",
         "youtube",
-        "youtubex"
+        "youtubex",
+        "embed-pdf"
     ],
     "pluginsConfig": {}
 }
