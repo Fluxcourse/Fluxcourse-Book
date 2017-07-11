@@ -22,11 +22,11 @@
 
 |||
 |:------------------|:------------------| 
-| 9:00 AM – 10:15 AM| Belinda Medlyn: Chloroplast- and Leaf-Level Flux Modeling (Lecture) Link to Further reading from Belinda|
-| 10:15 AM – 10:30 AM| Break Some explanations from Andrew Leakey (2015) and Carl Bernacchi (2013) Carl Bernacchi's version of the Farquhar Model |
-| 10:30 AM – 12:30 PM| Belinda Medyln: Modeling the Biochemistry of Photosynthesis (Hands-on computer) Link the the R package plantecophys Other packages we've used - Pecan.photosynthesis |
+| 9:00 AM – 10:15 AM| Kim Novick & Dave Moore: Modeling leaf-level gas exchange |
+| 10:15 AM – 10:30 AM| Break |
+| 10:30 AM – 12:30 PM| Kim Novick & Dave Moore: Modeling hands-on activity (fitting A-Ci curves)  |
 | 12:30 PM – 1:30 PM| Lunch |
-| 1:30 PM – 3:00 PM  |Russ Monson: Theory and Measurement of Canopy Fluxes Russ  |
+| 1:30 PM – 3:00 PM  |Russ Monson: Theory and Measurement of Canopy Fluxes |
  |3:00 PM – 3:15 PM | Break | 
 | 3:15 PM – 4:45 PM  |Ed Swiatek: Calculation of the Eddy Flux using pen and paper  |
 | 4:45 PM – 6:00 PM  |Free Time  |
