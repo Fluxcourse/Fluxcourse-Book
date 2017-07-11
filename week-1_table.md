@@ -22,7 +22,8 @@
 | 10:30 AM – 12:30 PM | Kim Novick & Dave Moore: Modeling hands-on activity [Fitting A-Ci Curves](co2-response-curves.md) |
 | 12:30 PM – 1:30 PM  | Lunch                                    |
 | 1:30 PM – 3:00 PM   | Russ Monson: Theory and Measurement of Canopy Fluxes |
-|                     |                                          |
-|                     |                                          |
-|                     |                                          |
-|                     |                                          |
+| 3:00 PM – 3:15 PM   | Break                                    |
+| 3:15 PM – 4:45 PM   | Ed Swiatek:Calculation of the Eddy Flux using pen and paper |
+| 4:45 PM – 6:00 PM   | Free Time                                |
+| 6:00 PM - 7:00 PM   | **Monson’s Musings**                     |
+
