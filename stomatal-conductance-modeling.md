@@ -1,6 +1,7 @@
 # Stomatal Conductance Modeling Exercise:  
+Below is a dataset containing meteorological observations and tower-derived GPP estimates collected at MMSF during the course of a severe drought occurring in 2012.  
 
-On Dropbox, you will find a dataset containing meteorological observations and tower-derived GPP estimates collected at MMSF during the course of a severe drought occurring in 2012.  For the purposes of this exercise, the data are limited to midday (i.e. hour 1300) values. Use the data to generate estimates of stomatal conductance using the Leuning model, and plant hydraulic model, and the Medlyn optimality model.  As a reminder, here are the model forms, and some suggested parameter values.
+For the purposes of this exercise, the data are limited to midday (i.e. hour 1300) values. Use the data to generate estimates of stomatal conductance using the Leuning model, and plant hydraulic model, and the Medlyn optimality model.  As a reminder, here are the model forms, and some suggested parameter values.
 
 Use the data to generate estimates of stomatal conductance using the Leuning model, and plant hydraulic model, and the Medlyn optimality model.  As a reminder, here are the model forms, and some suggested parameter values:
 
@@ -33,12 +34,3 @@ $$g_s^* \approx g_0 + 1.6(1+ \frac{g_1}{\sqrt{D}})\frac{A}{C_a}$$
 Let:
 $$g_0$$ = .001 mol/m2/s
 $$g_1$$ = 2
-
-
-
-
-
-
-_
-
-
