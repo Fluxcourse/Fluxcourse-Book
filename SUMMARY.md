@@ -7,6 +7,6 @@
   * [Weekend](weekend.md)
   * [Week 2](week-2.md)
 * [Readings](readings.md)
-  * [Huh](huh.md)
-* [CO2 Response Curves](co2-response-curves.md)
+* [Exercises](exercises.md)
+  * [CO2 Response Curves](co2-response-curves.md)
 
