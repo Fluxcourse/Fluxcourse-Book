@@ -22,5 +22,23 @@ $$g_s = \frac{K(\Psi_s - \Psi_L -pgh)}{VPD}$$
 Let:
 $$K$$ = 0.3 mol/m2/s
 $$pgh$$ = 0.3 (appropriate for a 30-m-tall tree)     
-Assume
-constant $$\Psi_L$$ = -1.8 MPa (isohydric species)
+Assume:
+constant $$\Psi_L$$ = -1.8 MPa (isohydric species)
+
+
+### Optimality Model
+
+$$g_s^* \approx g_0 + 1.6(1+ \frac{g_1}{\sqrt{D}})\frac{A}{C_a}$$
+
+Let:
+$$g_0$$ = .001 mol/m2/s
+$$g_1$$ = 2
+
+
+
+
+
+
+_
+
+
