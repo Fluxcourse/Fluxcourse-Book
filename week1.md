@@ -1,6 +1,6 @@
  <!--sec data-title="Week 1" data-id="section1" data-show=false ces--> 
 
-### Monday, week 1 Gas Exchange 
+### Monday, week 1 - Gas Exchange 
 
 |||
 |:------------------|:------------------| 
@@ -43,28 +43,30 @@
 [//]: # (Hidden from students:FileRuss Monson - The Eddy Flux File )
 [//]: # (Hidden from students:FolderReading Material for Russ - The Eddy Flux )
 
-- Farquhar Model F File
-- PS-FIT 7.3 excel file
-- Carl Bernacchi - Chloroplast- and Leaf-Level Flux Modeling File
-- Hidden from students:FileRuss Monson - The Eddy Flux File
-- Hidden from students:FolderReading Material for Russ - The Eddy Flux Folder
-- Paper Pencil Excercise File
-- Andrew Leakey - Measurement, analysis and interpretation of leaf photosynthetic gas exchange File
-– Russ Monson - C4 Photosynthesis File
-– Ed's pen and pencil exercise & recommended papers (WPL etc) File
+[//]: # Farquhar Model F File
+
+[//]:- PS-FIT 7.3 excel file
+[//]:- Carl Bernacchi - Chloroplast- and Leaf-Level Flux Modeling File
+[//]:- Hidden from students:FileRuss Monson - The Eddy Flux File
+[//]:- Hidden from students:FolderReading Material for Russ - The Eddy Flux Folder
+[//]:- Paper Pencil Excercise File
+[//]:- Andrew Leakey - Measurement, analysis and interpretation of leaf photosynthetic gas exchange File
+[//]:– Russ Monson - C4 Photosynthesis File
+[//]:– Ed's pen and pencil exercise & recommended papers (WPL etc) File
 
 
 ### Wednesday, week 1 - Eddy flux Instruments and data; uncertainty & organization 
 
 |||
 |:------------------|:------------------| 
-|9:00 AM – 10:30 PM| Ed Swiatek (Larry Jacobsen): Eddy Flux Instrumentation – Sonics Ed Swiatek Larry|
-| 10:30 AM – 12:15 PM| James Kathilankal: Eddy Flux Instrumentation – Gas Sensors |
-|12:15 PM – 1:30 PM| Lunch|
-| 1:30 PM – 3:30 PM| Dario Papale - on interpreting flux data, storage estimation and gap filling (slides coming soon) (Here's a video from last year Ankur Desai spoke on some related topics including flux partitioning) |
-|3:30 - 3:45|Break|
-|3:20 - 6:00 PM|More Dario <br> Kok effect - Review by Mary Heskl & set up groups for Thursday projects|
-| 6:00 PM – 7:00 PM| Dinner This evening - Kim and I might play some music in the rec room, Ed might be convinced to tell some stories about 'interesting' flux set ups. |
+|9:00 AM – 10:30 AM| Niwot Ridge Tower Tour (Sean Burns, Russ, Dave)|
+|12:30 PM – 1:30 PM| Lunch|
+| 1:30 PM – 3:00 PM| Dario Papale: Flux data gapfilling & partitioning – guidelines, uncertainty and caveats  |
+| 3:30 - 3:15 PM|Break|
+| 3:15 - 4:45 PM|More Dario |
+| 5:00 – 6:00 PM| Begin group projects (Project leaders are CSI,  Dario Papale, Kim Novick, Trevor Keenan)|
+| 6:00 – 7:00 PM| Dinner |
+| 7:00 – 9:00 PM| Dave Schimel: Chalk Talk |
 
 [//]: # (Hidden from students:FolderPapers for Papuga Flux Network Lecture Folder NOVICK_ENERGY_ET_REFS File )
 [//]: # (Hidden from students:FileMarcy Litvak - Fluxes Across Ecological)
