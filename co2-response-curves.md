@@ -7,6 +7,19 @@ We will also look at another package written by Duursma
 
 # Setup
 
+## JAGS
+
+JAGS is a program for analysis of Bayesian hierarchical models 
+
+To install go to https://sourceforge.net/projects/mcmc-jags/files/JAGS/4.x/ and select the version appropriate for your operating system. 
+
+There may be a link pointing directly to the newest version so you don't have to look through the file structure. 
+
+![](/assets/Screen Shot 2017-07-11 at 11.45.58 AM.png)
+
+
+## The PEcAn Photosynthesis Package
+
 ```R
 ##### Required for PEcAN
 
@@ -22,8 +35,6 @@ library(devtools)
 
 library(rjags)
 ```
-
-## The PEcAn Photosynthesis Package
 
 ```R
 # Next Install PEcAN.photosynthesis ... this is not available through CRAN
