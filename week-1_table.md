@@ -1,7 +1,8 @@
 # Monday 
 
-| 8:30 AM –9:30 AM    | Dave Moore: Welcome and Introduction to the Course |
+|                     |                                          |
 | ------------------- | ---------------------------------------- |
+| 8:30 AM –9:30 AM    | Dave Moore: Welcome and Introduction to the Course |
 | 9:30 AM – 10:45 AM  | Team Licor: Introduction to leaf level flux measurements (Aaron Saathoff & Tom Avenson) |
 | 10:45 AM – 11:00 AM | Break                                    |
 | 11:00 AM – 12:30 PM | Team Licor: Leaf-level flux measurements continued (Aaron Saathoff & Tom Avenson) |
@@ -14,13 +15,13 @@
 
 # Tuesday 
 
-| 9:00 AM – 10:15 AM  | Kim Novick & Dave Moore: Modeling leaf-level gas exchange |
+|                     |                                          |
 | ------------------- | ---------------------------------------- |
+| 9:00 AM – 10:15 AM  | Kim Novick & Dave Moore: Modeling leaf-level gas exchange |
 | 10:15 AM – 10:30 AM | Break                                    |
 | 10:30 AM – 12:30 PM | Kim Novick & Dave Moore: Modeling hands-on activity [Fitting A-Ci Curves](co2-response-curves.md) |
 | 12:30 PM – 1:30 PM  | Lunch                                    |
 | 1:30 PM – 3:00 PM   | Russ Monson: Theory and Measurement of Canopy Fluxes |
-|                     |                                          |
 |                     |                                          |
 |                     |                                          |
 |                     |                                          |
