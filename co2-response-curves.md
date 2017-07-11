@@ -50,12 +50,12 @@ library(PEcAn.photosynthesis)
 
 ```R
 # IN CASE YOU JUST ABOLUTELY HAVE TO HAVE THE LATEST VERSION
-#install_bitbucket("remkoduursma/plantecophys")
-#install the package
+#  i nstall_bitbucket("remkoduursma/plantecophys")
+# install the package
 
 install.packages("plantecophys")
 
-#load the package
+# load the package
 library (plantecophys)
 
 # REFERENCE MANUAL 
