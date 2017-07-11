@@ -105,13 +105,17 @@ master = lapply(filenames, read_Licor)
 
 ## Using your own data
 
+You can download this year's data as a ZIP file at [https://github.com/Fluxcourse/2017\_LI-COR](https://github.com/Fluxcourse/2017_LI-COR)
+
+![](/assets/Screen Shot 2017-07-11 at 12.29.31 AM.png)
+
 You can do the same process with your own data .... you just need to point R to those data and load em up into a big list.
 
 ```R
-# my_data <- "path_to_your_data" 
-# for example: my_data <- "~/Downloads/FluxCourse_2017_ACi_Curves/07102017PSC0365_CO2response"
+my_data <- "path_to_your_data" 
+# for example: my_data <- "~/Downloads/2017_LI-COR-master/07102017PSC0365_CO2response"
 
-# master = read_Licor(my_data)
+master = read_Licor(my_data)
 ```
 
 # QA/QC Checks
