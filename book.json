@@ -3,7 +3,8 @@
         "sectionx-collapse",
         "youtube",
         "youtubex",
-        "embed-pdf"
+        "embed-pdf",
+        "mathjax"
     ],
     "pluginsConfig": {}
 }
