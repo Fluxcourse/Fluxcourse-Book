@@ -9,13 +9,28 @@
 
 [Paul Stoy: Penman-Monteith Leaves to Canopies](https://www.youtube.com/watch?v=KeqG6B1DHdc)
 
+{%youtube%} KeqG6B1DHdc {%endyoutube%}
+
 [Russ Monson: Infamous stick lecture](https://www.youtube.com/watch?v=hMvbNw66r5s)
+
+{%youtube%}  {%endyoutube%}
 
 [Larry Jacobsen: Eddy Covariance Instrumentation](https://www.youtube.com/watch?v=ih1kN_19Ngc)
 
+{%youtube%}  {%endyoutube%}
+
 George Burba - https://www.youtube.com/watch?v=g7xcY7xjQS8 
+
+{%youtube%}  {%endyoutube%}
+
 Marcy Litvak - https://www.youtube.com/watch?v=shBn9iBg4S8 
+
+{%youtube%}  {%endyoutube%}
+
 Dan Yakir - https://www.youtube.com/watch?v=OIp0Khybndw 
+
+{%youtube%}  {%endyoutube%}
+
 Dave Bowling - https://www.youtube.com/watch?v=7qsfkyEJRr8 
 Dennis Baldocchi - https://www.youtube.com/watch?v=-SgdabTeQzA 
 Dave Moore 1 - https://www.youtube.com/watch?v=mn73c6E36_o&t=17s 
