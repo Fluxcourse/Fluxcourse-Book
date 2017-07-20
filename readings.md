@@ -1,6 +1,6 @@
 # Readings
 
-## ❗️This page is a work in progress - not all the links will work! 
+## ❗️This page is a work in progress - not all the links will work!
 
 ### Lecture PDFs
 
@@ -77,13 +77,12 @@
 * [Hidden from students:FolderReading Material - Water fluxes \(Paul\)Folder](http://www.fluxcourse.org/moodle/mod/folder/view.php?id=5)
 * [Hidden from students:FileDennis Baldocchi - Integrating Information on 'Biosphere Breathing' from Chloroplast to the GlobeFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=65)
 * [Hidden from students:FileTristan Quaife - Remote Sensing for Carbon Cycle ScienceFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=67)
-* [Hidden from students:FileMODIStools and referencesFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=114)
+* [Hidden from students:FileMODIStools and referencesFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=114)  
   MODIStools and references
 
 * [Hidden from students:FileMarcy Litvak - Fluxes across ecological gradientsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=138)
 
 * [Hidden from students:FileTristan Quaife - Remote sensing for carbon cycle science](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=146)
-
 
 ### Intro to modeling
 
@@ -102,4 +101,6 @@
 * [Hidden from students:FileAndy Fox - Informing Land Surface Models with Data - Scaling from Sites to the ContinentFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=91)
 * [Hidden from students:FileRosie Fisher - The Representation of Space and Stochasticity in Dynamic Global Vegetation ModelsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=86)
 * [Hidden from students:FileShimel et al PNAS 2014File](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=109)
+
+
 
