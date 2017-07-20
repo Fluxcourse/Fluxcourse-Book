@@ -42,7 +42,7 @@
 
 ## Tristan Quaife: [Remote Sensing for Carbon Cycle Science](https://www.youtube.com/watch?v=FwUtx0oGrs4)
 
-## John Zobitz - https://www.youtube.com/watch?v=cH9MtcWK6Do 
+## John Zobitz: [A Hitchhiker's Guide to Data Assimilation in the Ecological Sciences](https://www.youtube.com/watch?v=cH9MtcWK6Do)
 
 ## Dave Moore 2 - https://www.youtube.com/watch?v=DeYAK2zFFBA&t=9s 
 
