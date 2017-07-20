@@ -40,7 +40,7 @@
 
 ## Dave Moore: [Combining Models with Data: Models, Validation and Data Assimilation](https://www.youtube.com/watch?v=mn73c6E36_o&t=17s) 
 
-## Tristan Quaife - https://www.youtube.com/watch?v=FwUtx0oGrs4 
+## Tristan Quaife: [Remote Sensing for Carbon Cycle Science](https://www.youtube.com/watch?v=FwUtx0oGrs4)
 
 ## John Zobitz - https://www.youtube.com/watch?v=cH9MtcWK6Do 
 
