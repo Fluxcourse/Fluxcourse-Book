@@ -32,11 +32,9 @@
 
 {%youtube%} OIp0Khybndw {%endyoutube%}
 
-### Dave Bowling - https://www.youtube.com/watch?v=7qsfkyEJRr8 
+### Dave Bowling: [Stable Carbon Isotopes of Carbon Dioxide in Ecosystem Science](https://www.youtube.com/watch?v=7qsfkyEJRr8) 
 
 {%youtube%} 7qsfkyEJRr8 {%endyoutube%}
-
-
 
 ## Dennis Baldocchi - https://www.youtube.com/watch?v=-SgdabTeQzA 
 
