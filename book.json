@@ -2,7 +2,6 @@
     "plugins": [
         "sectionx-collapse",
         "youtube",
-        "youtubex",
         "embed-pdf",
         "mathjax",
         "edit-link"
