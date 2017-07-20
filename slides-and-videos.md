@@ -36,9 +36,9 @@
 
 {%youtube%} 7qsfkyEJRr8 {%endyoutube%}
 
-## Dennis Baldocchi - https://www.youtube.com/watch?v=-SgdabTeQzA 
+## Dennis Baldocchi: [Integrating Information on 'Biosphere Breathing' from Chloroplast to the Globe](https://www.youtube.com/watch?v=-SgdabTeQzA)
 
-## Dave Moore 1 - https://www.youtube.com/watch?v=mn73c6E36_o&t=17s 
+## Dave Moore: [Combining Models with Data: Models, Validation and Data Assimilation](https://www.youtube.com/watch?v=mn73c6E36_o&t=17s) 
 
 ## Tristan Quaife - https://www.youtube.com/watch?v=FwUtx0oGrs4 
 
