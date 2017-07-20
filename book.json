@@ -1,10 +1,16 @@
-{
+,{
     "plugins": [
         "sectionx-collapse",
         "youtube",
         "youtubex",
         "embed-pdf",
-        "mathjax"
+        "mathjax",
+        "edit-link"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+    "edit-link": {
+                "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+                "label": "Edit This Page"
+            }
+    }
 }
