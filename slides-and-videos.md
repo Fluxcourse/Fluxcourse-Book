@@ -32,6 +32,9 @@ Dan Yakir - https://www.youtube.com/watch?v=OIp0Khybndw
 {%youtube%}  {%endyoutube%}
 
 Dave Bowling - https://www.youtube.com/watch?v=7qsfkyEJRr8 
+
+
+
 Dennis Baldocchi - https://www.youtube.com/watch?v=-SgdabTeQzA 
 Dave Moore 1 - https://www.youtube.com/watch?v=mn73c6E36_o&t=17s 
 Tristan Quaife - https://www.youtube.com/watch?v=FwUtx0oGrs4 
