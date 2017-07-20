@@ -13,25 +13,27 @@
 
 [Russ Monson: Infamous stick lecture](https://www.youtube.com/watch?v=hMvbNw66r5s)
 
-{%youtube%}  {%endyoutube%}
+{%youtube%} hMvbNw66r5s {%endyoutube%}
 
 [Larry Jacobsen: Eddy Covariance Instrumentation](https://www.youtube.com/watch?v=ih1kN_19Ngc)
 
-{%youtube%}  {%endyoutube%}
+{%youtube%} ih1kN_19Ngc {%endyoutube%}
 
 George Burba - https://www.youtube.com/watch?v=g7xcY7xjQS8 
 
-{%youtube%}  {%endyoutube%}
+{%youtube%} g7xcY7xjQS8 {%endyoutube%}
 
 Marcy Litvak - https://www.youtube.com/watch?v=shBn9iBg4S8 
 
-{%youtube%}  {%endyoutube%}
+{%youtube%} shBn9iBg4S8 {%endyoutube%}
 
 Dan Yakir - https://www.youtube.com/watch?v=OIp0Khybndw 
 
-{%youtube%}  {%endyoutube%}
+{%youtube%} OIp0Khybndw {%endyoutube%}
 
 Dave Bowling - https://www.youtube.com/watch?v=7qsfkyEJRr8 
+
+{%youtube%} 7qsfkyEJRr8 {%endyoutube%}
 
 
 
