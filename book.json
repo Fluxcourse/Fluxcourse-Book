@@ -1,4 +1,4 @@
-,{
+{
     "plugins": [
         "sectionx-collapse",
         "youtube",
@@ -8,7 +8,7 @@
         "edit-link"
     ],
     "pluginsConfig": {
-    "edit-link": {
+        "edit-link": {
                 "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
                 "label": "Edit This Page"
             }
