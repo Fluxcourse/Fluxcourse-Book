@@ -1,11 +1,11 @@
 # Flux Course 2012
 [Pat Morgan: Theory of Leaf-Level Gas Exchange Measurements](https://www.youtube.com/watch?v=1NOHEYpDjQw)
 
-{% youtube%} 1NOHEYpDjQw {% endyoutube %}
+{%youtube%} 1NOHEYpDjQw {%endyoutube%}
 
 [Carl Bernachhi: Chloroplast and Leaf-Level Flux Modeling](https://www.youtube.com/watch?v=jFGCsKts5R0)
 
-{% youtube jFGCsKts5R0 %}{% endyoutube %}
+{%youtube%} jFGCsKts5R0 {%endyoutube%}
 
 [Paul Stoy: Penman-Monteith Leaves to Canopies](https://www.youtube.com/watch?v=KeqG6B1DHdc)
 
