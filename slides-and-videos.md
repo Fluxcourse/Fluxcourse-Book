@@ -5,8 +5,10 @@
 
 [Paul Stoy: Penman-Monteith Leaves to Canopies](https://www.youtube.com/watch?v=KeqG6B1DHdc)
 
-Russ Monson (Infamous stick lecture) - https://www.youtube.com/watch?v=hMvbNw66r5s 
-Larry Jacobsen - https://www.youtube.com/watch?v=ih1kN_19Ngc 
+[Russ Monson: Infamous stick lecture](https://www.youtube.com/watch?v=hMvbNw66r5s)
+
+[Larry Jacobsen: Eddy Covariance Instrumentation](https://www.youtube.com/watch?v=ih1kN_19Ngc)
+
 George Burba - https://www.youtube.com/watch?v=g7xcY7xjQS8 
 Marcy Litvak - https://www.youtube.com/watch?v=shBn9iBg4S8 
 Dan Yakir - https://www.youtube.com/watch?v=OIp0Khybndw 
