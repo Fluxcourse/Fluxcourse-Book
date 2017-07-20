@@ -1,34 +1,34 @@
 # Flux Course 2012
 
-### [Pat Morgan: Theory of Leaf-Level Gas Exchange Measurements](https://www.youtube.com/watch?v=1NOHEYpDjQw)
+### Pat Morgan: [Theory of Leaf-Level Gas Exchange Measurements](https://www.youtube.com/watch?v=1NOHEYpDjQw)
 
 {%youtube%} 1NOHEYpDjQw {%endyoutube%}
 
-### [Carl Bernachhi: Chloroplast and Leaf-Level Flux Modeling](https://www.youtube.com/watch?v=jFGCsKts5R0)
+### Carl Bernachhi: [Chloroplast and Leaf-Level Flux Modeling](https://www.youtube.com/watch?v=jFGCsKts5R0)
 
 {%youtube%} jFGCsKts5R0 {%endyoutube%}
 
-### [Paul Stoy: Penman-Monteith Leaves to Canopies](https://www.youtube.com/watch?v=KeqG6B1DHdc)
+### Paul Stoy: [Penman-Monteith Leaves to Canopies](https://www.youtube.com/watch?v=KeqG6B1DHdc)
 
 {%youtube%} KeqG6B1DHdc {%endyoutube%}
 
-### [Russ Monson: Infamous stick lecture](https://www.youtube.com/watch?v=hMvbNw66r5s)
+### Russ Monson: [Infamous stick lecture](https://www.youtube.com/watch?v=hMvbNw66r5s)
 
 {%youtube%} hMvbNw66r5s {%endyoutube%}
 
-### [Larry Jacobsen: Eddy Covariance Instrumentation](https://www.youtube.com/watch?v=ih1kN_19Ngc)
+### Larry Jacobsen: [Eddy Covariance Instrumentation](https://www.youtube.com/watch?v=ih1kN_19Ngc)
 
 {%youtube%} ih1kN_19Ngc {%endyoutube%}
 
-### George Burba - https://www.youtube.com/watch?v=g7xcY7xjQS8 
+### George Burba: [Eddy Flux Instrumentation - Gas Analyzers](https://www.youtube.com/watch?v=g7xcY7xjQS8)
 
 {%youtube%} g7xcY7xjQS8 {%endyoutube%}
 
-### Marcy Litvak - https://www.youtube.com/watch?v=shBn9iBg4S8 
+### Marcy Litvak: [Fluxes Across Ecological Gradients](https://www.youtube.com/watch?v=shBn9iBg4S8)
 
 {%youtube%} shBn9iBg4S8 {%endyoutube%}
 
-### Dan Yakir - https://www.youtube.com/watch?v=OIp0Khybndw 
+### Dan Yakir: [Stable Isotopes and Other Tracers to Complement Flux Measurements](https://www.youtube.com/watch?v=OIp0Khybndw)
 
 {%youtube%} OIp0Khybndw {%endyoutube%}
 
@@ -38,16 +38,25 @@
 
 
 
-Dennis Baldocchi - https://www.youtube.com/watch?v=-SgdabTeQzA 
-Dave Moore 1 - https://www.youtube.com/watch?v=mn73c6E36_o&t=17s 
-Tristan Quaife - https://www.youtube.com/watch?v=FwUtx0oGrs4 
-John Zobitz - https://www.youtube.com/watch?v=cH9MtcWK6Do 
-Dave Moore 2 - https://www.youtube.com/watch?v=DeYAK2zFFBA&t=9s 
-Mike Dietz & Ankur Desai - https://www.youtube.com/watch?v=S_y6SnO7Hbw 
-Dave Schimel - https://www.youtube.com/watch?v=bDucSWEHn34 
-Deborah Huntzinger - https://www.youtube.com/watch?v=uRyvKUAb3bw 
-Rosie Fisher - https://www.youtube.com/watch?v=TexpCkxlFLM 
-Andy Fox - https://www.youtube.com/watch?v=ETc3oOhSULA&t=3s 
+## Dennis Baldocchi - https://www.youtube.com/watch?v=-SgdabTeQzA 
+
+## Dave Moore 1 - https://www.youtube.com/watch?v=mn73c6E36_o&t=17s 
+
+## Tristan Quaife - https://www.youtube.com/watch?v=FwUtx0oGrs4 
+
+## John Zobitz - https://www.youtube.com/watch?v=cH9MtcWK6Do 
+
+## Dave Moore 2 - https://www.youtube.com/watch?v=DeYAK2zFFBA&t=9s 
+
+## Mike Dietz & Ankur Desai - https://www.youtube.com/watch?v=S_y6SnO7Hbw 
+
+## Dave Schimel - https://www.youtube.com/watch?v=bDucSWEHn34 
+
+## Deborah Huntzinger - https://www.youtube.com/watch?v=uRyvKUAb3bw 
+
+## Rosie Fisher - https://www.youtube.com/watch?v=TexpCkxlFLM 
+
+## Andy Fox - https://www.youtube.com/watch?v=ETc3oOhSULA&t=3s 
 
 # Flux Course 2013
 Diane Pataki - https://www.youtube.com/watch?v=J5iDIivBqFA&t=89s 
