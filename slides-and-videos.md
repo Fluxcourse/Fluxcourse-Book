@@ -46,7 +46,7 @@
 
 ## Dave Moore: [Data Assimilation Using Ecosystem Models](https://www.youtube.com/watch?v=DeYAK2zFFBA&t=9s)
 
-## Mike Dietz & Ankur Desai - https://www.youtube.com/watch?v=S_y6SnO7Hbw 
+## Mike Dietz & Ankur Desai: [The PEcAn Project: Feedbacks Between Models and Data](https://www.youtube.com/watch?v=S_y6SnO7Hbw)
 
 ## Dave Schimel - https://www.youtube.com/watch?v=bDucSWEHn34 
 
