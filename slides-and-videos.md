@@ -48,9 +48,9 @@
 
 ## Mike Dietz & Ankur Desai: [The PEcAn Project: Feedbacks Between Models and Data](https://www.youtube.com/watch?v=S_y6SnO7Hbw)
 
-## Dave Schimel - https://www.youtube.com/watch?v=bDucSWEHn34 
+## Dave Schimel: [Chalk Talk 2012 - The Global Carbon Cycle](https://www.youtube.com/watch?v=bDucSWEHn34)
 
-## Deborah Huntzinger - https://www.youtube.com/watch?v=uRyvKUAb3bw 
+## Deborah Huntzinger: [Regional Estimates of Land-Atmosphere Carbon Exchange](https://www.youtube.com/watch?v=uRyvKUAb3bw)
 
 ## Rosie Fisher - https://www.youtube.com/watch?v=TexpCkxlFLM 
 
