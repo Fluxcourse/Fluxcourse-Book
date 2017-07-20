@@ -1,7 +1,10 @@
 # Flux Course 2012
-Pat Morgan - https://www.youtube.com/watch?v=1NOHEYpDjQw 
-Carl Bernachhi - https://www.youtube.com/watch?v=jFGCsKts5R0 
-Paul Stoy - https://www.youtube.com/watch?v=KeqG6B1DHdc 
+[Pat Morgan: Theory of Leaf-Level Gas Exchange Measurements](https://www.youtube.com/watch?v=1NOHEYpDjQw)
+
+[Carl Bernachhi: Chloroplast and Leaf-Level Flux Modeling](https://www.youtube.com/watch?v=jFGCsKts5R0)
+
+[Paul Stoy: Penman-Monteith Leaves to Canopies](https://www.youtube.com/watch?v=KeqG6B1DHdc)
+
 Russ Monson (Infamous stick lecture) - https://www.youtube.com/watch?v=hMvbNw66r5s 
 Larry Jacobsen - https://www.youtube.com/watch?v=ih1kN_19Ngc 
 George Burba - https://www.youtube.com/watch?v=g7xcY7xjQS8 
