@@ -9,6 +9,7 @@
 * [Readings](readings.md)
 * [Videos](slides-and-videos.md)
   * [2012](slides-and-videos/2012.md)
+  * [2013](slides-and-videos/2013.md)
 * [Exercises](exercises.md)
   * [Fitting A-Ci Curves](co2-response-curves.md)
   * [Stomatal Conductance Modeling ](stomatal-conductance-modeling.md)
