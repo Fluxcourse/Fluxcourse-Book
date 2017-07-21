@@ -7,39 +7,21 @@
 
 ### Pat Morgan: [Theory of Leaf-Level Gas Exchange Measurements 2012](https://www.youtube.com/watch?v=1NOHEYpDjQw)
 
-{%youtube%} 1NOHEYpDjQw {%endyoutube%}
-
 ### Carl Bernachhi: [Chloroplast and Leaf-Level Flux Modeling](https://www.youtube.com/watch?v=jFGCsKts5R0)
-
-{%youtube%} jFGCsKts5R0 {%endyoutube%}
 
 ### Paul Stoy: [Penman-Monteith Leaves to Canopies](https://www.youtube.com/watch?v=KeqG6B1DHdc)
 
-{%youtube%} KeqG6B1DHdc {%endyoutube%}
-
 ### Russ Monson: [Infamous stick lecture](https://www.youtube.com/watch?v=hMvbNw66r5s)
-
-{%youtube%} hMvbNw66r5s {%endyoutube%}
 
 ### Larry Jacobsen: [Eddy Covariance Instrumentation](https://www.youtube.com/watch?v=ih1kN_19Ngc)
 
-{%youtube%} ih1kN_19Ngc {%endyoutube%}
-
 ### George Burba: [Eddy Flux Instrumentation - Gas Analyzers](https://www.youtube.com/watch?v=g7xcY7xjQS8)
-
-{%youtube%} g7xcY7xjQS8 {%endyoutube%}
 
 ### Marcy Litvak: [Fluxes Across Ecological Gradients 2012](https://www.youtube.com/watch?v=shBn9iBg4S8)
 
-{%youtube%} shBn9iBg4S8 {%endyoutube%}
-
 ### Dan Yakir: [Stable Isotopes and Other Tracers to Complement Flux Measurements](https://www.youtube.com/watch?v=OIp0Khybndw)
 
-{%youtube%} OIp0Khybndw {%endyoutube%}
-
 ### Dave Bowling: [Stable Carbon Isotopes of Carbon Dioxide in Ecosystem Science](https://www.youtube.com/watch?v=7qsfkyEJRr8) 
-
-{%youtube%} 7qsfkyEJRr8 {%endyoutube%}
 
 ### Dennis Baldocchi: [Integrating Information on 'Biosphere Breathing' from Chloroplast to the Globe](https://www.youtube.com/watch?v=-SgdabTeQzA)
 
