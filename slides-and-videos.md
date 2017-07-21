@@ -1,4 +1,6 @@
-# Flux Course 2012
+# Videos 
+
+## Flux Course 2012
 
 ### Pat Morgan: [Theory of Leaf-Level Gas Exchange Measurements](https://www.youtube.com/watch?v=1NOHEYpDjQw)
 
@@ -36,34 +38,40 @@
 
 {%youtube%} 7qsfkyEJRr8 {%endyoutube%}
 
-## Dennis Baldocchi: [Integrating Information on 'Biosphere Breathing' from Chloroplast to the Globe](https://www.youtube.com/watch?v=-SgdabTeQzA)
+### Dennis Baldocchi: [Integrating Information on 'Biosphere Breathing' from Chloroplast to the Globe](https://www.youtube.com/watch?v=-SgdabTeQzA)
 
-## Dave Moore: [Combining Models with Data: Models, Validation and Data Assimilation](https://www.youtube.com/watch?v=mn73c6E36_o&t=17s) 
+### Dave Moore: [Combining Models with Data: Models, Validation and Data Assimilation](https://www.youtube.com/watch?v=mn73c6E36_o&t=17s) 
 
-## Tristan Quaife: [Remote Sensing for Carbon Cycle Science](https://www.youtube.com/watch?v=FwUtx0oGrs4)
+### Tristan Quaife: [Remote Sensing for Carbon Cycle Science](https://www.youtube.com/watch?v=FwUtx0oGrs4)
 
-## John Zobitz: [A Hitchhiker's Guide to Data Assimilation in the Ecological Sciences](https://www.youtube.com/watch?v=cH9MtcWK6Do)
+### John Zobitz: [A Hitchhiker's Guide to Data Assimilation in the Ecological Sciences](https://www.youtube.com/watch?v=cH9MtcWK6Do)
 
-## Dave Moore: [Data Assimilation Using Ecosystem Models](https://www.youtube.com/watch?v=DeYAK2zFFBA&t=9s)
+### Dave Moore: [Data Assimilation Using Ecosystem Models](https://www.youtube.com/watch?v=DeYAK2zFFBA&t=9s)
 
-## Mike Dietz & Ankur Desai: [The PEcAn Project: Feedbacks Between Models and Data](https://www.youtube.com/watch?v=S_y6SnO7Hbw)
+### Mike Dietz & Ankur Desai: [The PEcAn Project: Feedbacks Between Models and Data](https://www.youtube.com/watch?v=S_y6SnO7Hbw)
 
-## Dave Schimel: [Chalk Talk 2012 - The Global Carbon Cycle](https://www.youtube.com/watch?v=bDucSWEHn34)
+### Dave Schimel: [Chalk Talk 2012 - The Global Carbon Cycle](https://www.youtube.com/watch?v=bDucSWEHn34)
 
-## Deborah Huntzinger: [Regional Estimates of Land-Atmosphere Carbon Exchange](https://www.youtube.com/watch?v=uRyvKUAb3bw)
+### Deborah Huntzinger: [Regional Estimates of Land-Atmosphere Carbon Exchange](https://www.youtube.com/watch?v=uRyvKUAb3bw)
 
-## Rosie Fisher - https://www.youtube.com/watch?v=TexpCkxlFLM 
+### Rosie Fisher: [The Representation of Space and Stochasticity in Dynamic Global Vegetation Models](https://www.youtube.com/watch?v=TexpCkxlFLM)
 
-## Andy Fox - https://www.youtube.com/watch?v=ETc3oOhSULA&t=3s 
+### Andy Fox: [Informing Land Surface Models with Data - Scaling from Sites to the Continent](https://www.youtube.com/watch?v=ETc3oOhSULA&t=3s)
 
-# Flux Course 2013
-Diane Pataki - https://www.youtube.com/watch?v=J5iDIivBqFA&t=89s 
-Ray Leuning 1 - https://www.youtube.com/watch?v=8wDjFXOje34&t=14s 
-Dario Papale - https://www.youtube.com/watch?v=ua0UUffs8I0 
-Ray Leuning 2 - https://www.youtube.com/watch?v=73tZvrQC3pc 
-Russ Monson - https://www.youtube.com/watch?v=O1k03ZaW6Xw&t=15s 
+## Flux Course 2013
 
-#Flux Course 2015
+### Diane Pataki: [What's the Big Deal About Isotopes Anyway?](https://www.youtube.com/watch?v=J5iDIivBqFA&t=89s)
+
+### Ray Leuning 1 - https://www.youtube.com/watch?v=8wDjFXOje34&t=14s 
+
+### Dario Papale - https://www.youtube.com/watch?v=ua0UUffs8I0 
+
+### Ray Leuning 2 - https://www.youtube.com/watch?v=73tZvrQC3pc 
+
+### Russ Monson - https://www.youtube.com/watch?v=O1k03ZaW6Xw&t=15s 
+
+## Flux Course 2015
+
 Andrew Leakey - https://www.youtube.com/watch?v=661WI5U503U 
 James Kathilankal - https://www.youtube.com/watch?v=mNOoR4aouzg 
 Kim Novick - https://www.youtube.com/watch?v=1uhFRgf-1UM 

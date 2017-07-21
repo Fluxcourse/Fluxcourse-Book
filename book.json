@@ -4,12 +4,17 @@
         "youtube",
         "embed-pdf",
         "mathjax",
-        "edit-link"
+        "edit-link",
+         "simple-page-toc" 
     ],
     "pluginsConfig": {
         "edit-link": {
                 "base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
                 "label": "Edit This Page"
-            }
+            },
+          "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+           }
     }
 }
