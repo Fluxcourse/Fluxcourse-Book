@@ -75,16 +75,25 @@
 
 ## Flux Course 2015
 
-Andrew Leakey - https://www.youtube.com/watch?v=661WI5U503U 
-James Kathilankal - https://www.youtube.com/watch?v=mNOoR4aouzg 
-Kim Novick - https://www.youtube.com/watch?v=1uhFRgf-1UM 
-Russ Monson (C4) - https://www.youtube.com/watch?v=5BPtY3rSYFI&t=4s 
-Pat Morgan - https://www.youtube.com/watch?v=qPd8iMpgNmA 
-Ankur Desai - https://www.youtube.com/watch?v=7pUZ1yGH034 
-Marcy Litvak - https://www.youtube.com/watch?v=LJBevHvNvWM 
-Ed Swiatek - https://www.youtube.com/watch?v=5xSTPcUosXk 
-Tristan Quaife - https://www.youtube.com/watch?v=BILPrj554Eg&t=1936s 
-Russ Monson (The Eddy Flux) - https://www.youtube.com/watch?v=_h3AkHABklM&t=2s 
+### Andrew Leakey: [Measurement, analysis and interpretation of leaf photosynthetic gas exchange](https://www.youtube.com/watch?v=661WI5U503U)
+
+### James Kathilankal: [Gas Analyzers, Theory and Maintenance, and Site Intercomparisons] https://www.youtube.com/watch?v=mNOoR4aouzg 
+
+### Kim Novick - https://www.youtube.com/watch?v=1uhFRgf-1UM 
+
+### Russ Monson (C4) - https://www.youtube.com/watch?v=5BPtY3rSYFI&t=4s 
+
+### Pat Morgan - https://www.youtube.com/watch?v=qPd8iMpgNmA 
+
+### Ankur Desai - https://www.youtube.com/watch?v=7pUZ1yGH034 
+
+### Marcy Litvak - https://www.youtube.com/watch?v=LJBevHvNvWM 
+
+### Ed Swiatek - https://www.youtube.com/watch?v=5xSTPcUosXk 
+
+### Tristan Quaife - https://www.youtube.com/watch?v=BILPrj554Eg&t=1936s 
+
+### Russ Monson (The Eddy Flux) - https://www.youtube.com/watch?v=_h3AkHABklM&t=2s 
 
 
 
