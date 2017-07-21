@@ -5,7 +5,7 @@
 
 ## Flux Course 2012
 
-### Pat Morgan: [Theory of Leaf-Level Gas Exchange Measurements](https://www.youtube.com/watch?v=1NOHEYpDjQw)
+### Pat Morgan: [Theory of Leaf-Level Gas Exchange Measurements 2012](https://www.youtube.com/watch?v=1NOHEYpDjQw)
 
 {%youtube%} 1NOHEYpDjQw {%endyoutube%}
 
@@ -29,7 +29,7 @@
 
 {%youtube%} g7xcY7xjQS8 {%endyoutube%}
 
-### Marcy Litvak: [Fluxes Across Ecological Gradients](https://www.youtube.com/watch?v=shBn9iBg4S8)
+### Marcy Litvak: [Fluxes Across Ecological Gradients 2012](https://www.youtube.com/watch?v=shBn9iBg4S8)
 
 {%youtube%} shBn9iBg4S8 {%endyoutube%}
 
@@ -45,7 +45,7 @@
 
 ### Dave Moore: [Combining Models with Data: Models, Validation and Data Assimilation](https://www.youtube.com/watch?v=mn73c6E36_o&t=17s) 
 
-### Tristan Quaife: [Remote Sensing for Carbon Cycle Science](https://www.youtube.com/watch?v=FwUtx0oGrs4)
+### Tristan Quaife: [Remote Sensing for Carbon Cycle Science 2012](https://www.youtube.com/watch?v=FwUtx0oGrs4)
 
 ### John Zobitz: [A Hitchhiker's Guide to Data Assimilation in the Ecological Sciences](https://www.youtube.com/watch?v=cH9MtcWK6Do)
 
@@ -83,15 +83,17 @@
 
 ### Russ Monson: [C4 Photosynthesis: A Historical Perspective and Associated General Lessons in Science](https://www.youtube.com/watch?v=5BPtY3rSYFI&t=4s)
 
-### Pat Morgan - https://www.youtube.com/watch?v=qPd8iMpgNmA 
+### Pat Morgan: [Theory of Leaf-Level Gas Exchange Measurements 2015](https://www.youtube.com/watch?v=qPd8iMpgNmA)
 
-### Ankur Desai - https://www.youtube.com/watch?v=7pUZ1yGH034 
+### Ankur Desai: [You have NEE: Now what?](https://www.youtube.com/watch?v=7pUZ1yGH034)
 
-### Marcy Litvak - https://www.youtube.com/watch?v=LJBevHvNvWM 
+### Marcy Litvak: [Fluxes Across Ecological Gradients 2015](https://www.youtube.com/watch?v=LJBevHvNvWM)
 
-### Ed Swiatek - https://www.youtube.com/watch?v=5xSTPcUosXk 
+### Ed Swiatek: [Eddy Covariance Instrumentation](https://www.youtube.com/watch?v=5xSTPcUosXk)
 
-### Tristan Quaife - https://www.youtube.com/watch?v=BILPrj554Eg&t=1936s 
+### Tristan Quaife: [Remote Sensing for Carbon Cycle Science 2015](https://youtu.be/BILPrj554Eg)
+
+ {%youtube%}  BILPrj554Eg {%endyoutube%}
 
 ### Russ Monson (The Eddy Flux) - https://www.youtube.com/watch?v=_h3AkHABklM&t=2s 
 
