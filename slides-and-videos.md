@@ -65,13 +65,13 @@
 
 ### Diane Pataki: [What's the Big Deal About Isotopes Anyway?](https://www.youtube.com/watch?v=J5iDIivBqFA&t=89s)
 
-### Ray Leuning 1 - https://www.youtube.com/watch?v=8wDjFXOje34&t=14s 
+### Ray Leuning: [Introduction To Measuring Fluxes Over Land Using Eddy Covariance](https://www.youtube.com/watch?v=8wDjFXOje34&t=14s)
 
-### Dario Papale - https://www.youtube.com/watch?v=ua0UUffs8I0 
+### Dario Papale: [When Collaboration Makes the Difference: Examples From FLUXNET](https://www.youtube.com/watch?v=ua0UUffs8I0)
 
-### Ray Leuning 2 - https://www.youtube.com/watch?v=73tZvrQC3pc 
+### Ray Leuning: [Communicating Science with the Public](https://www.youtube.com/watch?v=73tZvrQC3pc)
 
-### Russ Monson - https://www.youtube.com/watch?v=O1k03ZaW6Xw&t=15s 
+### Russ Monson: [Eddy Flux Measurements in Complex Terrain: the Ogre in the Closet](https://www.youtube.com/watch?v=O1k03ZaW6Xw&t=15s)
 
 ## Flux Course 2015
 
