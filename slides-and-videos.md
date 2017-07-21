@@ -93,9 +93,7 @@
 
 ### Tristan Quaife: [Remote Sensing for Carbon Cycle Science 2015](https://youtu.be/BILPrj554Eg)
 
- {%youtube%}  BILPrj554Eg {%endyoutube%}
-
-### Russ Monson (The Eddy Flux) - https://www.youtube.com/watch?v=_h3AkHABklM&t=2s 
+### Russ Monson: [The Eddy Flux](https://www.youtube.com/watch?v=_h3AkHABklM&t=2s)
 
 
 
