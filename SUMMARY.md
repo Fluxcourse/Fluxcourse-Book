@@ -7,8 +7,9 @@
   * [Weekend](weekend.md)
   * [Week 2](week-2.md)
 * [Readings](readings.md)
+* [Videos](slides-and-videos.md)
+  * [2012](slides-and-videos/2012.md)
 * [Exercises](exercises.md)
   * [Fitting A-Ci Curves](co2-response-curves.md)
   * [Stomatal Conductance Modeling ](stomatal-conductance-modeling.md)
-* [Slides and Videos](slides-and-videos.md)
 
