@@ -77,11 +77,11 @@
 
 ### Andrew Leakey: [Measurement, analysis and interpretation of leaf photosynthetic gas exchange](https://www.youtube.com/watch?v=661WI5U503U)
 
-### James Kathilankal: [Gas Analyzers, Theory and Maintenance, and Site Intercomparisons] https://www.youtube.com/watch?v=mNOoR4aouzg 
+### James Kathilankal: [Gas Analyzers, Theory and Maintenance, and Site Intercomparisons](https://www.youtube.com/watch?v=mNOoR4aouzg)
 
-### Kim Novick - https://www.youtube.com/watch?v=1uhFRgf-1UM 
+### Kim Novick: [Energy Balance and Evapotanspiration](https://www.youtube.com/watch?v=1uhFRgf-1UM)
 
-### Russ Monson (C4) - https://www.youtube.com/watch?v=5BPtY3rSYFI&t=4s 
+### Russ Monson: [C4 Photosynthesis: A Historical Perspective and Associated General Lessons in Science](https://www.youtube.com/watch?v=5BPtY3rSYFI&t=4s)
 
 ### Pat Morgan - https://www.youtube.com/watch?v=qPd8iMpgNmA 
 
