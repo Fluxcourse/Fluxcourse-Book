@@ -11,4 +11,6 @@
 - Assimilation of flux observations and satellite remote sensing data into ecosystem process models 
 - Bayesian approaches to modeling
 
-{%youtube%}l-DPsXtdhME{%endyoutube%}
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=l-DPsXtdhME
+" target="_blank"><img src="http://img.youtube.com/vi/l-DPsXtdhME/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>Intro
