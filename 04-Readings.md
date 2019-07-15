@@ -1,8 +1,8 @@
 # Readings
+ 
+ ❗This page is a work in progress - not all the links will work!
 
-## ❗️This page is a work in progress - not all the links will work!
-
-### Lecture PDFs
+## Lecture PDFs
 
 * [Pat Morgan - Theory of Leaf-Level Gas Exchange MeasurementsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=68)
 * [Carl Bernacchi - Chloroplast- and Leaf-Level Flux ModelingFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=72)
@@ -33,12 +33,12 @@
 * [Tristan Quaife - Remote sensing for carbon cycle scienceFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=148)
 * [Russ Monson - The Eddy FluxFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=152)
 
-### Gas Exchange
+## Gas Exchange
 
 * [Hidden from students:FileTheory of Gas Exchange Measurements - Pat Morgan 2015File](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=110)
 * [Pat Morgan - Theory of Leaf-Level Gas Exchange Measurements](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=132)
 
-### Photosynthesis to control volume
+## Photosynthesis to control volume
 
 * [Leaf fluxes - mathematical modeling - FURTHER READING from Belinda Medlyn 2016Page](http://www.fluxcourse.org/moodle/mod/page/view.php?id=158)
 * [Reading material - Photosynthesis measurements \(Carl\)Folder](http://www.fluxcourse.org/moodle/mod/folder/view.php?id=4)
@@ -57,7 +57,7 @@
 * [Russ Monson - C4 PhotosynthesisFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=125)
 * [Ed's pen and pencil exercise & recommended papers \(WPL etc\)](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=157)
 
-### **Eddy flux Instruments and data; uncertainty & organization**
+## **Eddy flux Instruments and data; uncertainty & organization**
 
 * [Hidden from students:FolderPapers for Papuga Flux Network LectureFolder](http://www.fluxcourse.org/moodle/mod/folder/view.php?id=7)
 * [NOVICK\_ENERGY\_ET\_REFSFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=106)
@@ -71,7 +71,7 @@
 * [Ed Swiatek - Eddy Covariance InstrumentationFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=142)
 * [Campbell Sci - reading materials and reviewFolder](http://www.fluxcourse.org/moodle/mod/folder/view.php?id=22)
 
-### **Asking questions with flux measurements - Remote Sensing**
+## **Asking questions with flux measurements - Remote Sensing**
 
 * [Hidden from students:FilePaul Stoy - Penman-Monteith Leaves to CanopiesFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=56)
 * [Hidden from students:FolderReading Material - Water fluxes \(Paul\)Folder](http://www.fluxcourse.org/moodle/mod/folder/view.php?id=5)
@@ -84,18 +84,18 @@
 
 * [Hidden from students:FileTristan Quaife - Remote sensing for carbon cycle science](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=146)
 
-### Intro to modeling
+## Intro to modeling
 
 * [Hidden from students:FileDavid Moore - Combining Models with Data- Models, Validation and Data Assimilation](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=66)
 
-### Combining models and data
+## Combining models and data
 
 * [John Zobitz - A Hitchhiker's Guide to Data Assimilation in the Ecological SciencesFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=62)
 * [David Moore - Data Assimilation Using Ecosystem ModelsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=70)
 * [Mike Dietze & Ankur Desai - The PEcAn Project- Feedbacks Between Models and DataFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=76)
 * [Data assimilation with simple ecosystem modelsFolder](http://www.fluxcourse.org/moodle/mod/folder/view.php?id=102)
 
-### Land surface modeling
+## Land surface modeling
 
 * [Hidden from students:FileDeborah Huntzinger - Regional Estimates of Land-Atmosphere Carbon ExchangeFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=82)
 * [Hidden from students:FileAndy Fox - Informing Land Surface Models with Data - Scaling from Sites to the ContinentFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=91)

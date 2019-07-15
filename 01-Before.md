@@ -1,9 +1,10 @@
 # Before the course : reading and skills
 
+❗️This page is a work in progress - not all the links will work! 
 
-## ❗️This page is a work in progress - not all the links will work! 
-
-{%youtube%}KFo4R3f50Eg{%endyoutube%}
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KFo4R3f50Eg
+" target="_blank"><img src="http://img.youtube.com/vi/KFo4R3f50Eg/0.jpg" 
+alt="Intro" border="10" /></a>
 
 ## Key papers on the Eddy Flux
 Aubinet, M., Vesala, T., & Papale, D. (Eds.). (2012). [Eddy covariance: a practical guide to measurement and data analysis](/Before_course_materials/Key papers on the eddy flux/Aubinet_EddyCovariance.pdf). Springer Science & Business Media.

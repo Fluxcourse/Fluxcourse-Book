@@ -1,7 +1,20 @@
-![](fluxcourse_home.jpg)
-# Annual Summer Course in Flux Measurements and Modelling
+---
+title: "Annual Summer Course in Flux Measurements and Modelling"
+author: "Betsy Cowdery"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  bookdown::gitbook: default
+github-repo: Fluxcourse/Fluxcourse-Book
+url: https\://http://fluxcourse.github.io/Fluxcourse-Book
+description: "Fluxcourse Book"
+---
 
-## The course will cover: 
+# Overview:
+
+![](fluxcourse_home.jpg)
+
 - Flux measurements at the leaf level
 - Modeling leaf CO2 and H2O fluxes
 - Eddy covariance measurements
@@ -14,3 +27,4 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=l-DPsXtdhME
 " target="_blank"><img src="http://img.youtube.com/vi/l-DPsXtdhME/0.jpg" 
 alt="Intro" border="10" /></a>
+

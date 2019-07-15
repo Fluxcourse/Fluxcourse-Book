@@ -1,0 +1,15 @@
+book_filename: "Fluxcourse_Book"
+chapter_name: ""
+repo: https://github.com/Fluxcourse/Fluxcourse-Book
+output_dir: docs
+rmd_files: [
+  "index.Rmd",
+  "01-Before.md",
+  "02-Schedule.md",
+  "03-Weekend.md",
+  "04-Readings.md",
+  "05-Slides_and_Videos.md"
+  ]
+clean: [packages.bib, bookdown.bbl]
+new_session: no
+delete_merged_file: true
