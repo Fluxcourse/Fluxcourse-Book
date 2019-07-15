@@ -24,8 +24,4 @@ description: "Fluxcourse Book"
 - Assimilation of flux observations and satellite remote sensing data into ecosystem process models 
 - Bayesian approaches to modeling
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=l-DPsXtdhME
-" target="_blank"><img src="http://img.youtube.com/vi/0.jpg" 
-alt="Intro" border="10" /></a>
-
-![](https://youtu.be/l-DPsXtdhME)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-DPsXtdhME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

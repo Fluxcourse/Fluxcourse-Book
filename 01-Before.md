@@ -2,9 +2,6 @@
 
 ❗️This page is a work in progress - not all the links will work! 
 
-![](https://youtu.be/KFo4R3f50Eg)
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KFo4R3f50Eg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
