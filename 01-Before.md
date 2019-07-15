@@ -2,9 +2,11 @@
 
 ❗️This page is a work in progress - not all the links will work! 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=KFo4R3f50Eg
-" target="_blank"><img src="http://img.youtube.com/vi/KFo4R3f50Eg/0.jpg" 
-alt="Intro" border="10" /></a>
+![](https://youtu.be/KFo4R3f50Eg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KFo4R3f50Eg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Key papers on the Eddy Flux
 Aubinet, M., Vesala, T., & Papale, D. (Eds.). (2012). [Eddy covariance: a practical guide to measurement and data analysis](/Before_course_materials/Key papers on the eddy flux/Aubinet_EddyCovariance.pdf). Springer Science & Business Media.
