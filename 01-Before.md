@@ -6,7 +6,7 @@
 
 
 ## Key papers on the Eddy Flux
-Aubinet, M., Vesala, T., & Papale, D. (Eds.). (2012). [Eddy covariance: a practical guide to measurement and data analysis](/Before_course_materials/Key papers on the eddy flux/Aubinet_EddyCovariance.pdf). Springer Science & Business Media.
+Aubinet, M., Vesala, T., & Papale, D. (Eds.). (2012). [Eddy covariance: a practical guide to measurement and data analysis](https://github.com/Fluxcourse/Before_course_materials/blob/master/Key%20papers%20on%20the%20eddy%20flux/Aubinet_EddyCovariance.pdf). Springer Science & Business Media.
 
 Verma, S. B., Baldocchi, D. D., Anderson, D. E., Matt, D. R., & Clement, R. J. (1986). [Eddy fluxes of CO2, water vapor, and sensible heat over a deciduous forest](/Before_course_materials/Key papers on the eddy flux/Verma%20et%20al%201986%20BLM.pdf). Boundary-Layer Meteorology, 36(1-2), 71-91.
 
