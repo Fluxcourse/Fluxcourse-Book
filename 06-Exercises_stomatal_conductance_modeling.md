@@ -1,4 +1,4 @@
-# Stomatal Conductance Modeling Exercise:
+## Stomatal Conductance Modeling Exercise:
 
 Below is a dataset containing meteorological observations and tower-derived GPP estimates collected at MMSF during the course of a severe drought occurring in 2012.
 

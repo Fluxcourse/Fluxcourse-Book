@@ -1,13 +1,14 @@
-# Fitting Ac-Ci Curves
+## Fitting Ac-Ci Curves
+
 We are going to follow along with a Vignette that explains how to fit response curves using R
 
 We'll use PEcAn - you'll use PEcAn next week to do some data assimilation
 
 We will also look at another package written by Duursma
 
-# Setup
+### Setup
 
-## JAGS
+#### JAGS
 
 JAGS is a program for analysis of Bayesian hierarchical models 
 
@@ -15,10 +16,10 @@ To install go to https://sourceforge.net/projects/mcmc-jags/files/JAGS/4.x/ and 
 
 There may be a link pointing directly to the newest version so you don't have to look through the file structure. 
 
-![](/assets/Screen Shot 2017-07-11 at 11.45.58 AM.png)
+![](/assets/Screen\ Shot\ 2017-07-11\ at\ 11.45.58\ AM.png)
 
 
-## The PEcAn Photosynthesis Package
+#### The PEcAn Photosynthesis Package
 
 ```R
 ##### Required for PEcAN
@@ -52,7 +53,7 @@ knitr::opts_chunk$set(cache = TRUE)
 library(PEcAn.photosynthesis)
 ```
 
-## The plantecophys package
+#### The plantecophys package
 
 * Modelling and Analysis of Leaf Gas Exchange Data
 * Coupled leaf gas exchange model, A-Ci curve simulation and fitting, 
@@ -89,9 +90,9 @@ library(ggplot2)
 library(grid) #required for 'unit'
 ```
 
-# Loading data
+### Loading data
 
-## Using pre-loaded data
+#### Using pre-loaded data
 
 With the PEcAn Photosynthesis package, you have  downloaded the LICOR files collected by the FLUXCOURSE in 2012.
 
@@ -116,7 +117,7 @@ filenames <- system.file("extdata", paste0("flux-course-",rep(1:6,each=2),c("aci
 master = lapply(filenames, read_Licor)
 ```
 
-## Using your own data
+#### Using your own data
 
 You can download this year's data as a ZIP file at [https://github.com/Fluxcourse/2017\_LI-COR](https://github.com/Fluxcourse/2017_LI-COR)
 
@@ -131,7 +132,7 @@ my_data <- "path_to_your_data"
 master = read_Licor(my_data)
 ```
 
-# QA/QC Checks
+### QA/QC Checks
 
 The code below performs a set of interactive QA/QC checks on the LI-COR data that's been loaded.
 

@@ -8,7 +8,10 @@ rmd_files: [
   "02-Schedule.md",
   "03-Weekend.md",
   "04-Readings.md",
-  "05-Slides_and_Videos.md"
+  "05-Slides_and_Videos.md",
+  "06-Exercises.md",
+  "06-Exercises_co2_response_curves.md",
+  "06-Exercises_stomatal_conductance_modeling.md"
   ]
 clean: [packages.bib, bookdown.bbl]
 new_session: no

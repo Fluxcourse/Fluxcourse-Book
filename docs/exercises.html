@@ -5,11 +5,11 @@
 
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>6 Slides and Videos | Annual Summer Course in Flux Measurements and Modelling</title>
+  <title>7 Exercises | Annual Summer Course in Flux Measurements and Modelling</title>
   <meta name="description" content="Fluxcourse Book">
   <meta name="generator" content="bookdown  and GitBook 2.6.7">
 
-  <meta property="og:title" content="6 Slides and Videos | Annual Summer Course in Flux Measurements and Modelling" />
+  <meta property="og:title" content="7 Exercises | Annual Summer Course in Flux Measurements and Modelling" />
   <meta property="og:type" content="book" />
   <meta property="og:url" content="https://http://fluxcourse.github.io/Fluxcourse-Book" />
   
@@ -17,7 +17,7 @@
   <meta name="github-repo" content="Fluxcourse/Fluxcourse-Book" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="6 Slides and Videos | Annual Summer Course in Flux Measurements and Modelling" />
+  <meta name="twitter:title" content="7 Exercises | Annual Summer Course in Flux Measurements and Modelling" />
   
   <meta name="twitter:description" content="Fluxcourse Book" />
   
@@ -32,8 +32,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-<link rel="prev" href="readings.html">
-<link rel="next" href="exercises.html">
+<link rel="prev" href="slides-and-videos.html">
+
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -219,117 +219,199 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="slides-and-videos" class="section level1">
-<h1><span class="header-section-number">6</span> Slides and Videos</h1>
-<div id="section" class="section level2">
-<h2><span class="header-section-number">6.1</span> 2012</h2>
-<div id="pat-morgan-theory-of-leaf-level-gas-exchange-measurements-2012" class="section level3">
-<h3><span class="header-section-number">6.1.1</span> Pat Morgan: <a href="https://www.youtube.com/watch?v=1NOHEYpDjQw">Theory of Leaf-Level Gas Exchange Measurements 2012</a></h3>
+<div id="exercises" class="section level1">
+<h1><span class="header-section-number">7</span> Exercises</h1>
+
+<div id="fitting-ac-ci-curves" class="section level2">
+<h2><span class="header-section-number">7.1</span> Fitting Ac-Ci Curves</h2>
+<p>We are going to follow along with a Vignette that explains how to fit response curves using R</p>
+<p>We’ll use PEcAn - you’ll use PEcAn next week to do some data assimilation</p>
+<p>We will also look at another package written by Duursma</p>
+<div id="setup" class="section level3">
+<h3><span class="header-section-number">7.1.1</span> Setup</h3>
+<div id="jags" class="section level4">
+<h4><span class="header-section-number">7.1.1.1</span> JAGS</h4>
+<p>JAGS is a program for analysis of Bayesian hierarchical models</p>
+<p>To install go to <a href="https://sourceforge.net/projects/mcmc-jags/files/JAGS/4.x/" class="uri">https://sourceforge.net/projects/mcmc-jags/files/JAGS/4.x/</a> and select the version appropriate for your operating system.</p>
+<p>There may be a link pointing directly to the newest version so you don’t have to look through the file structure.</p>
+<p><img src="/assets/Screen%20Shot%202017-07-11%20at%2011.45.58%20AM.png" /></p>
 </div>
-<div id="carl-bernachhi-chloroplast-and-leaf-level-flux-modeling" class="section level3">
-<h3><span class="header-section-number">6.1.2</span> Carl Bernachhi: <a href="https://www.youtube.com/watch?v=jFGCsKts5R0">Chloroplast and Leaf-Level Flux Modeling</a></h3>
+<div id="the-pecan-photosynthesis-package" class="section level4">
+<h4><span class="header-section-number">7.1.1.2</span> The PEcAn Photosynthesis Package</h4>
+<pre class="sourceCode r"><code class="sourceCode r"><span class="co">##### Required for PEcAN</span>
+
+<span class="co"># install packages</span>
+
+<span class="kw">install.packages</span>(<span class="st">&quot;devtools&quot;</span>)
+
+<span class="kw">install.packages</span>(<span class="st">&quot;rjags&quot;</span>)
+
+<span class="co"># load the packages</span>
+
+<span class="kw">library</span>(devtools)
+
+<span class="kw">library</span>(rjags)</code></pre>
+<pre class="sourceCode r"><code class="sourceCode r"><span class="co"># Next Install PEcAN.photosynthesis ... this is not available through CRAN</span>
+<span class="co"># - but you can find it on GITHUB - this code will download and install</span>
+
+<span class="co">### This step might take a while</span>
+
+<span class="co">#if (!require(&quot;PEcAn.photosynthesis&quot;, character.only = TRUE)) {</span>
+devtools<span class="op">::</span><span class="kw">install_github</span>(<span class="st">&quot;PecanProject/pecan/modules/photosynthesis&quot;</span>, 
+                         <span class="dt">ref =</span> <span class="st">&quot;release/1.5.0&quot;</span>)
+<span class="co">#}</span>
+
+knitr<span class="op">::</span>opts_chunk<span class="op">$</span><span class="kw">set</span>(<span class="dt">cache =</span> <span class="ot">TRUE</span>)
+
+<span class="kw">library</span>(PEcAn.photosynthesis)</code></pre>
 </div>
-<div id="paul-stoy-penman-monteith-leaves-to-canopies" class="section level3">
-<h3><span class="header-section-number">6.1.3</span> Paul Stoy: <a href="https://www.youtube.com/watch?v=KeqG6B1DHdc">Penman-Monteith Leaves to Canopies</a></h3>
-</div>
-<div id="russ-monson-infamous-stick-lecture" class="section level3">
-<h3><span class="header-section-number">6.1.4</span> Russ Monson: <a href="https://www.youtube.com/watch?v=hMvbNw66r5s">Infamous stick lecture</a></h3>
-</div>
-<div id="larry-jacobsen-eddy-covariance-instrumentation" class="section level3">
-<h3><span class="header-section-number">6.1.5</span> Larry Jacobsen: <a href="https://www.youtube.com/watch?v=ih1kN_19Ngc">Eddy Covariance Instrumentation</a></h3>
-</div>
-<div id="george-burba-eddy-flux-instrumentation---gas-analyzers" class="section level3">
-<h3><span class="header-section-number">6.1.6</span> George Burba: <a href="https://www.youtube.com/watch?v=g7xcY7xjQS8">Eddy Flux Instrumentation - Gas Analyzers</a></h3>
-</div>
-<div id="marcy-litvak-fluxes-across-ecological-gradients-2012" class="section level3">
-<h3><span class="header-section-number">6.1.7</span> Marcy Litvak: <a href="https://www.youtube.com/watch?v=shBn9iBg4S8">Fluxes Across Ecological Gradients 2012</a></h3>
-</div>
-<div id="dan-yakir-stable-isotopes-and-other-tracers-to-complement-flux-measurements" class="section level3">
-<h3><span class="header-section-number">6.1.8</span> Dan Yakir: <a href="https://www.youtube.com/watch?v=OIp0Khybndw">Stable Isotopes and Other Tracers to Complement Flux Measurements</a></h3>
-</div>
-<div id="dave-bowling-stable-carbon-isotopes-of-carbon-dioxide-in-ecosystem-science" class="section level3">
-<h3><span class="header-section-number">6.1.9</span> Dave Bowling: <a href="https://www.youtube.com/watch?v=7qsfkyEJRr8">Stable Carbon Isotopes of Carbon Dioxide in Ecosystem Science</a></h3>
-</div>
-<div id="dennis-baldocchi-integrating-information-on-biosphere-breathing-from-chloroplast-to-the-globe" class="section level3">
-<h3><span class="header-section-number">6.1.10</span> Dennis Baldocchi: <a href="https://www.youtube.com/watch?v=-SgdabTeQzA">Integrating Information on ‘Biosphere Breathing’ from Chloroplast to the Globe</a></h3>
-</div>
-<div id="dave-moore-combining-models-with-data-models-validation-and-data-assimilation" class="section level3">
-<h3><span class="header-section-number">6.1.11</span> Dave Moore: <a href="https://www.youtube.com/watch?v=mn73c6E36_o&amp;t=17s">Combining Models with Data: Models, Validation and Data Assimilation</a></h3>
-</div>
-<div id="tristan-quaife-remote-sensing-for-carbon-cycle-science-2012" class="section level3">
-<h3><span class="header-section-number">6.1.12</span> Tristan Quaife: <a href="https://www.youtube.com/watch?v=FwUtx0oGrs4">Remote Sensing for Carbon Cycle Science 2012</a></h3>
-</div>
-<div id="john-zobitz-a-hitchhikers-guide-to-data-assimilation-in-the-ecological-sciences" class="section level3">
-<h3><span class="header-section-number">6.1.13</span> John Zobitz: <a href="https://www.youtube.com/watch?v=cH9MtcWK6Do">A Hitchhiker’s Guide to Data Assimilation in the Ecological Sciences</a></h3>
-</div>
-<div id="dave-moore-data-assimilation-using-ecosystem-models" class="section level3">
-<h3><span class="header-section-number">6.1.14</span> Dave Moore: <a href="https://www.youtube.com/watch?v=DeYAK2zFFBA&amp;t=9s">Data Assimilation Using Ecosystem Models</a></h3>
-</div>
-<div id="mike-dietz-ankur-desai-the-pecan-project-feedbacks-between-models-and-data" class="section level3">
-<h3><span class="header-section-number">6.1.15</span> Mike Dietz &amp; Ankur Desai: <a href="https://www.youtube.com/watch?v=S_y6SnO7Hbw">The PEcAn Project: Feedbacks Between Models and Data</a></h3>
-</div>
-<div id="dave-schimel-chalk-talk-2012---the-global-carbon-cycle" class="section level3">
-<h3><span class="header-section-number">6.1.16</span> Dave Schimel: <a href="https://www.youtube.com/watch?v=bDucSWEHn34">Chalk Talk 2012 - The Global Carbon Cycle</a></h3>
-</div>
-<div id="deborah-huntzinger-regional-estimates-of-land-atmosphere-carbon-exchange" class="section level3">
-<h3><span class="header-section-number">6.1.17</span> Deborah Huntzinger: <a href="https://www.youtube.com/watch?v=uRyvKUAb3bw">Regional Estimates of Land-Atmosphere Carbon Exchange</a></h3>
-</div>
-<div id="rosie-fisher-the-representation-of-space-and-stochasticity-in-dynamic-global-vegetation-models" class="section level3">
-<h3><span class="header-section-number">6.1.18</span> Rosie Fisher: <a href="https://www.youtube.com/watch?v=TexpCkxlFLM">The Representation of Space and Stochasticity in Dynamic Global Vegetation Models</a></h3>
-</div>
-<div id="andy-fox-informing-land-surface-models-with-data---scaling-from-sites-to-the-continent" class="section level3">
-<h3><span class="header-section-number">6.1.19</span> Andy Fox: <a href="https://www.youtube.com/watch?v=ETc3oOhSULA&amp;t=3s">Informing Land Surface Models with Data - Scaling from Sites to the Continent</a></h3>
-</div>
-</div>
-<div id="section-1" class="section level2">
-<h2><span class="header-section-number">6.2</span> 2013</h2>
-<div id="diane-pataki-whats-the-big-deal-about-isotopes-anyway" class="section level3">
-<h3><span class="header-section-number">6.2.1</span> Diane Pataki: <a href="https://www.youtube.com/watch?v=J5iDIivBqFA&amp;t=89s">What’s the Big Deal About Isotopes Anyway?</a></h3>
-</div>
-<div id="ray-leuning-introduction-to-measuring-fluxes-over-land-using-eddy-covariance" class="section level3">
-<h3><span class="header-section-number">6.2.2</span> Ray Leuning: <a href="https://www.youtube.com/watch?v=8wDjFXOje34&amp;t=14s">Introduction To Measuring Fluxes Over Land Using Eddy Covariance</a></h3>
-</div>
-<div id="dario-papale-when-collaboration-makes-the-difference-examples-from-fluxnet" class="section level3">
-<h3><span class="header-section-number">6.2.3</span> Dario Papale: <a href="https://www.youtube.com/watch?v=ua0UUffs8I0">When Collaboration Makes the Difference: Examples From FLUXNET</a></h3>
-</div>
-<div id="ray-leuning-communicating-science-with-the-public" class="section level3">
-<h3><span class="header-section-number">6.2.4</span> Ray Leuning: <a href="https://www.youtube.com/watch?v=73tZvrQC3pc">Communicating Science with the Public</a></h3>
-</div>
-<div id="russ-monson-eddy-flux-measurements-in-complex-terrain-the-ogre-in-the-closet" class="section level3">
-<h3><span class="header-section-number">6.2.5</span> Russ Monson: <a href="https://www.youtube.com/watch?v=O1k03ZaW6Xw&amp;t=15s">Eddy Flux Measurements in Complex Terrain: the Ogre in the Closet</a></h3>
+<div id="the-plantecophys-package" class="section level4">
+<h4><span class="header-section-number">7.1.1.3</span> The plantecophys package</h4>
+<ul>
+<li>Modelling and Analysis of Leaf Gas Exchange Data</li>
+<li>Coupled leaf gas exchange model, A-Ci curve simulation and fitting,</li>
+<li>Ball-Berry stomatal conductance models, leaf energy balance using Penman-Monteith,</li>
+<li>Cowan-Farquhar optimization, humidity unit conversions.</li>
+</ul>
+<p><a href="https://cran.r-project.org/web/packages/plantecophys/index.html">https://cran.r-project.org/web/packages/plantecophys/index.html</a></p>
+<pre class="sourceCode r"><code class="sourceCode r"><span class="co"># IN CASE YOU JUST ABOLUTELY HAVE TO HAVE THE LATEST VERSION</span>
+<span class="co">#  i nstall_bitbucket(&quot;remkoduursma/plantecophys&quot;)</span>
+<span class="co"># install the package</span>
+
+<span class="kw">install.packages</span>(<span class="st">&quot;plantecophys&quot;</span>)
+
+<span class="co"># load the package</span>
+<span class="kw">library</span> (plantecophys)
+
+<span class="co"># REFERENCE MANUAL </span>
+https<span class="op">:</span><span class="er">//</span>cran.r<span class="op">-</span>project.org<span class="op">/</span>web<span class="op">/</span>packages<span class="op">/</span>plantecophys<span class="op">/</span>plantecophys.pdf
+
+<span class="co"># Some utility packages# if you need to install ... then install them :)</span>
+
+<span class="co"># install.packages(&quot;dplyr&quot;)</span>
+<span class="kw">library</span>(dplyr)
+
+<span class="co"># install.packages(&quot;tidyr&quot;)</span>
+<span class="kw">library</span>(tidyr)
+
+<span class="co"># install.packages(&quot;ggplot2&quot;)</span>
+<span class="kw">library</span>(ggplot2)
+
+<span class="co"># install.packages(&quot;grid&quot;)</span>
+<span class="kw">library</span>(grid) <span class="co">#required for &#39;unit&#39;</span></code></pre>
 </div>
 </div>
-<div id="section-2" class="section level2">
-<h2><span class="header-section-number">6.3</span> 2015</h2>
-<div id="andrew-leakey-measurement-analysis-and-interpretation-of-leaf-photosynthetic-gas-exchange" class="section level3">
-<h3><span class="header-section-number">6.3.1</span> Andrew Leakey: <a href="https://www.youtube.com/watch?v=661WI5U503U">Measurement, analysis and interpretation of leaf photosynthetic gas exchange</a></h3>
+<div id="loading-data" class="section level3">
+<h3><span class="header-section-number">7.1.2</span> Loading data</h3>
+<div id="using-pre-loaded-data" class="section level4">
+<h4><span class="header-section-number">7.1.2.1</span> Using pre-loaded data</h4>
+<p>With the PEcAn Photosynthesis package, you have downloaded the LICOR files collected by the FLUXCOURSE in 2012.</p>
+<p>If you want to see the files you can go into your R directory on your computer and you can find it in the extdata folder within the PEcAN.photosynthesis package.</p>
+<p>For example : <code>C:\Users\dmoore\Documents\R\R-3.4.0\library\PEcAn.photosynthesis\extdata</code></p>
+<p>The command system.file()` in R allows you to call up folders relevant to a particular package. This commant looks in the folder, scans for files with aci or aq in the filename and writes these names <span class="math inline">\(and their full path\)</span> to the R object “filenames”.</p>
+<pre class="sourceCode r"><code class="sourceCode r"><span class="co">## Get list of LI-COR 6400 file names (ASCII not xls)</span>
+filenames &lt;-<span class="st"> </span><span class="kw">system.file</span>(<span class="st">&quot;extdata&quot;</span>, <span class="kw">paste0</span>(<span class="st">&quot;flux-course-&quot;</span>,<span class="kw">rep</span>(<span class="dv">1</span><span class="op">:</span><span class="dv">6</span>,<span class="dt">each=</span><span class="dv">2</span>),<span class="kw">c</span>(<span class="st">&quot;aci&quot;</span>,<span class="st">&quot;aq&quot;</span>)), <span class="dt">package =</span> <span class="st">&quot;PEcAn.photosynthesis&quot;</span>)
+
+<span class="co"># filenames is 12 character variables</span>
+<span class="co"># These files are licor files ... not CSV files, not XLSX files</span>
+<span class="co"># ... just the file that comes right off the machine ... it has no file extension</span>
+
+<span class="co"># PEcAN.photosynthesis contains a command call read.licor() ...I bet you can guess what it does!</span>
+<span class="co"># read.Licor will load an individual licor file ... if you have one.</span>
+
+<span class="co">## Load files to a list</span>
+master =<span class="st"> </span><span class="kw">lapply</span>(filenames, read_Licor)</code></pre>
 </div>
-<div id="james-kathilankal-gas-analyzers-theory-and-maintenance-and-site-intercomparisons" class="section level3">
-<h3><span class="header-section-number">6.3.2</span> James Kathilankal: <a href="https://www.youtube.com/watch?v=mNOoR4aouzg">Gas Analyzers, Theory and Maintenance, and Site Intercomparisons</a></h3>
+<div id="using-your-own-data" class="section level4">
+<h4><span class="header-section-number">7.1.2.2</span> Using your own data</h4>
+<p>You can download this year’s data as a ZIP file at <a href="https://github.com/Fluxcourse/2017_LI-COR">https://github.com/Fluxcourse/2017_LI-COR</a></p>
+<p><img src="/assets/Screen%20Shot%202017-07-11%20at%2012.29.31%20AM.png" /></p>
+<p>You can do the same process with your own data …. you just need to point R to those data and load em up into a big list.</p>
+<pre class="sourceCode r"><code class="sourceCode r">my_data &lt;-<span class="st"> &quot;path_to_your_data&quot;</span> 
+<span class="co"># for example: my_data &lt;- &quot;~/Downloads/2017_LI-COR-master/07102017PSC0365_CO2response&quot;</span>
+
+master =<span class="st"> </span><span class="kw">read_Licor</span>(my_data)</code></pre>
 </div>
-<div id="kim-novick-energy-balance-and-evapotanspiration" class="section level3">
-<h3><span class="header-section-number">6.3.3</span> Kim Novick: <a href="https://www.youtube.com/watch?v=1uhFRgf-1UM">Energy Balance and Evapotanspiration</a></h3>
 </div>
-<div id="russ-monson-c4-photosynthesis-a-historical-perspective-and-associated-general-lessons-in-science" class="section level3">
-<h3><span class="header-section-number">6.3.4</span> Russ Monson: <a href="https://www.youtube.com/watch?v=5BPtY3rSYFI&amp;t=4s">C4 Photosynthesis: A Historical Perspective and Associated General Lessons in Science</a></h3>
+<div id="qaqc-checks" class="section level3">
+<h3><span class="header-section-number">7.1.3</span> QA/QC Checks</h3>
+<p>The code below performs a set of interactive QA/QC checks on the LI-COR data that’s been loaded.</p>
+<pre class="sourceCode r"><code class="sourceCode r">master[[<span class="dv">1</span>]] &lt;-<span class="st"> </span><span class="kw">Licor_QC</span>(master[[<span class="dv">1</span>]])</code></pre>
+<p>If you have more than one file loaded into the `master` list, you may only want to run the function for one file, rather than looping over all the files.</p>
+<pre class="sourceCode r"><code class="sourceCode r">master[[<span class="dv">1</span>]] &lt;-<span class="st"> </span><span class="kw">Licor_QC</span>(master[[<span class="dv">1</span>]])</code></pre>
+
 </div>
-<div id="pat-morgan-theory-of-leaf-level-gas-exchange-measurements-2015" class="section level3">
-<h3><span class="header-section-number">6.3.5</span> Pat Morgan: <a href="https://www.youtube.com/watch?v=qPd8iMpgNmA">Theory of Leaf-Level Gas Exchange Measurements 2015</a></h3>
 </div>
-<div id="ankur-desai-you-have-nee-now-what" class="section level3">
-<h3><span class="header-section-number">6.3.6</span> Ankur Desai: <a href="https://www.youtube.com/watch?v=7pUZ1yGH034">You have NEE: Now what?</a></h3>
+<div id="stomatal-conductance-modeling-exercise" class="section level2">
+<h2><span class="header-section-number">7.2</span> Stomatal Conductance Modeling Exercise:</h2>
+<p>Below is a dataset containing meteorological observations and tower-derived GPP estimates collected at MMSF during the course of a severe drought occurring in 2012.</p>
+<p>The data can be downloaded <a href="https://raw.githubusercontent.com/Fluxcourse/Lecture_materials/master/Stomatal%20Conductance/FluxCourse_GSmodeling%201.txt?raw=true" title="here">here</a></p>
+<pre><code>DOY    Hour    VPD (kPa)    SWP (Mpa)    VWC (m3/m3)    Par (umol/m2/s)    CO2 (ppm)    GPP (umol/m2/s)    
+161.00    13.00    1.78    -0.31    24.16    1581.51    378.88    31.17    
+162.00    13.00    0.81    -0.40    22.18    1039.02    393.49    26.87    
+163.00    13.00    2.19    -0.35    23.29    1981.02    391.32    14.06    
+164.00    13.00    1.65    -0.37    22.79    1959.24    390.29    28.01    
+165.00    13.00    2.28    -0.40    22.08    1975.11    386.57    21.81    
+166.00    13.00    2.61    -0.43    21.51    1964.63    388.04    17.56    
+167.00    13.00    2.32    -0.46    21.06    1921.93    384.74    20.38    
+168.00    13.00    1.34    -0.49    20.65    1620.87    392.81    20.75    
+169.00    13.00    2.08    -0.53    20.05    1912.18    385.83    22.01    
+170.00    13.00    2.28    -0.57    19.51    1942.83    389.73    19.74    
+171.00    13.00    2.51    -0.63    18.85    1817.14    390.25    19.51    
+172.00    13.00    2.51    -0.67    18.37    1718.25    388.63    20.61    
+173.00    13.00    2.37    -0.71    17.99    2004.02    390.08    17.98    
+174.00    13.00    2.53    -0.76    17.61    1597.01    384.12    26.28    
+175.00    13.00    2.72    -0.80    17.27    1151.81    382.42    22.52    
+176.00    13.00    2.40    -0.86    16.83    1974.86    389.35    17.76    
+177.00    13.00    2.02    -0.90    16.54    1992.69    389.01    12.18    
+178.00    13.00    2.58    -0.96    16.12    1976.11    386.41    16.60    
+179.00    13.00    3.77    -1.03    15.74    1945.17    386.67    7.43    
+180.00    13.00    3.20    -1.08    15.48    1858.93    386.64    16.02    
+181.00    13.00    3.29    -1.12    15.26    1815.67    389.95    12.42    
+182.00    13.00    2.84    -1.15    15.00    1679.99    394.88    19.59    
+183.00    13.00    2.91    -1.21    14.83    1743.00    393.03    19.10    
+184.00    13.00    2.42    -1.24    14.66    1782.24    395.40    20.37    
+185.00    13.00    3.41    -1.29    14.47    1846.70    399.83    12.69    
+186.00    13.00    4.39    -1.34    14.26    1653.94    397.45    11.65    
+187.00    13.00    4.14    -1.38    14.09    1599.68    392.84    8.08    
+188.00    13.00    4.19    -1.41    13.99    726.34    392.89    7.05    
+189.00    13.00    2.08    -1.41    14.00    183.91    402.59    NaN    
+190.00    13.00    2.65    -1.45    13.84    1751.20    383.80    17.21    
+191.00    13.00    3.23    -1.51    13.64    1964.57    385.53    13.61    
+192.00    13.00    3.03    -1.54    13.54    2000.73    384.07    16.73    
+193.00    13.00    3.13    -1.59    13.37    1614.61    384.63    11.51    
+194.00    13.00    1.91    -1.60    13.35    1801.13    396.36    23.55    
+195.00    13.00    0.89    -1.58    13.40    1973.77    404.49    21.15    
+196.00    13.00    1.96    -1.62    13.29    1807.26    398.74    14.46    
+197.00    13.00    2.14    -1.65    13.19    832.07    400.72    9.93    
+198.00    13.00    2.52    -1.70    13.05    1703.59    398.55    12.63    
+199.00    13.00    2.94    -1.70    13.04    1531.01    397.72    11.89</code></pre>
+<p>For the purposes of this exercise, the data are limited to midday <span class="math inline">\(i.e. hour 1300\)</span> values. Use the data to generate estimates of stomatal conductance using the Leuning model, and plant hydraulic model, and the Medlyn optimality model. As a reminder, here are the model forms, and some suggested parameter values.</p>
+<p>Use the data to generate estimates of stomatal conductance using the Leuning model, and plant hydraulic model, and the Medlyn optimality model. As a reminder, here are the model forms, and some suggested parameter values:</p>
+<div id="leuning" class="section level3">
+<h3><span class="header-section-number">7.2.1</span> Leuning</h3>
+<p><span class="math display">\[ g_s = \frac{m_2 A}{s_s - \Gamma}(1 + \frac{D}{D_o})^{-1} + b_2 \]</span></p>
+<p>Let:</p>
+<p><span class="math display">\[D_o\]</span> = 1.1 kPa</p>
+<p><span class="math display">\[b_2\]</span> = .001 mol/m2/s</p>
+<p><span class="math display">\[m_2\]</span> = 6.5 dimensionless</p>
+<p><span class="math display">\[\Gamma\]</span> = 50 ppm</p>
 </div>
-<div id="marcy-litvak-fluxes-across-ecological-gradients-2015" class="section level3">
-<h3><span class="header-section-number">6.3.7</span> Marcy Litvak: <a href="https://www.youtube.com/watch?v=LJBevHvNvWM">Fluxes Across Ecological Gradients 2015</a></h3>
+<div id="hydraulic-model" class="section level3">
+<h3><span class="header-section-number">7.2.2</span> Hydraulic Model</h3>
+<p><span class="math display">\[g_s = \frac{K(\Psi_s - \Psi_L -pgh)}{VPD}\]</span></p>
+<p>Let:</p>
+<p><span class="math display">\[K\]</span> = 0.3 mol/m2/s</p>
+<p><span class="math display">\[pgh\]</span> = 0.3 <span class="math inline">\(appropriate for a 30-m-tall tree\)</span></p>
+<p>Assume:</p>
+<p>constant <span class="math display">\[\Psi_L\]</span> = -1.8 MPa <span class="math inline">\(isohydric species\)</span></p>
 </div>
-<div id="ed-swiatek-eddy-covariance-instrumentation" class="section level3">
-<h3><span class="header-section-number">6.3.8</span> Ed Swiatek: <a href="https://www.youtube.com/watch?v=5xSTPcUosXk">Eddy Covariance Instrumentation</a></h3>
-</div>
-<div id="tristan-quaife-remote-sensing-for-carbon-cycle-science-2015" class="section level3">
-<h3><span class="header-section-number">6.3.9</span> Tristan Quaife: <a href="https://youtu.be/BILPrj554Eg">Remote Sensing for Carbon Cycle Science 2015</a></h3>
-</div>
-<div id="russ-monson-the-eddy-flux" class="section level3">
-<h3><span class="header-section-number">6.3.10</span> Russ Monson: <a href="https://www.youtube.com/watch?v=_h3AkHABklM&amp;t=2s">The Eddy Flux</a></h3>
+<div id="optimality-model" class="section level3">
+<h3><span class="header-section-number">7.2.3</span> Optimality Model</h3>
+<p><span class="math display">\[g_s^* \approx g_0 + 1.6(1+ \frac{g_1}{\sqrt{D}})\frac{A}{C_a}\]</span></p>
+<p>Let:</p>
+<p><span class="math display">\[g_0\]</span> = .001 mol/m2/s</p>
+<p><span class="math display">\[g_1\]</span> = 2</p>
 
 </div>
 </div>
@@ -339,8 +421,8 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           </div>
         </div>
       </div>
-<a href="readings.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="exercises.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="slides-and-videos.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
