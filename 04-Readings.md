@@ -2,10 +2,28 @@
  
  ❗This page is a work in progress - not all the links will work!
 
+
+## Data Fundamentals: Leaf fluxes to the control volume
+* [Carl Bernacchi - Chloroplast- and Leaf-Level Flux ModelingFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=72)
+* Bernacchi condensed video XXX
+
+* [Andrew Leakey - Measurement, analysis and interpretation of leaf photosynthetic gas exchangeFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=117)
+* [Russ Monson - C4 PhotosynthesisFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=130)
+* [Dennis Baldocchi - Integrating Information on 'Biosphere Breathing' from Chloroplast to the GlobeFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=40)
+
+## Data fundamentals: Eddy flux measurements and data processing 
+
+## Synthesis of data within and across sites: Understanding why fluxes change across space and time
+* [Marcy Litvak - Fluxes across ecological gradientsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=140)
+
+## Models and data: Components and Structure of Terrestrial Biosphere Models - Biometeorology and Land Surface Modelling
+
+## Combining models and biometeorological data
+
+
 ## Lecture PDFs
 
 * [Pat Morgan - Theory of Leaf-Level Gas Exchange MeasurementsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=68)
-* [Carl Bernacchi - Chloroplast- and Leaf-Level Flux ModelingFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=72)
 * [Paul Stoy - Penman-Monteith Leaves to CanopiesFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=73)
 * [Russ Monson - The Eddy FluxFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=30)
 * [Larry Jacobsen - Eddy Covariance InstrumentationFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=31)
@@ -13,7 +31,6 @@
 * [Hidden from students:FileMarcy Litvak - Fluxes Across Ecological GradientsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=33)
 * [Dan Yakir - Stable Isotopes and Other Tracers to Complement Flux MeasurementsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=34)
 * [Hidden from students:FileDave Bowling - Stable Carbon Isotopes of Carbon Dioxide in Ecosystem ScienceFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=39)
-* [Dennis Baldocchi - Integrating Information on 'Biosphere Breathing' from Chloroplast to the GlobeFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=40)
 * [David Moore - Combining Models with Data- Models, Validation and Data AssimilationFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=51)
 * [Tristan Quaife - Remote Sensing for Carbon Cycle ScienceFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=54)
 * [John Zobitz - A Hitchhiker's Guide to Data Assimilation in the Ecological SciencesFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=55)
@@ -22,13 +39,10 @@
 * [Deborah Huntzinger - Regional Estimates of Land-Atmosphere Carbon ExchangeFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=84)
 * [Hidden from students:FileRosie Fisher - The Representation of Space and Stochasticity in Dynamic Global Vegetation ModelsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=88)
 * [Andy Fox - Informing Land Surface Models with Data - Scaling from Sites to the ContinentFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=92)
-* [Andrew Leakey - Measurement, analysis and interpretation of leaf photosynthetic gas exchangeFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=117)
 * [James Kathilankal - Gas analyzers, theory and maintenance, and site intercomparisonsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=128)
 * [Kim Novick - Energy balance and evapotranspirationFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=129)
-* [Russ Monson - C4 PhotosynthesisFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=130)
 * [Pat Morgan - Theory of Leaf-Level Gas Exchange MeasurementsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=131)
 * [Ankur Desai - You have NEEFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=136)
-* [Marcy Litvak - Fluxes across ecological gradientsFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=140)
 * [Ed Swiatek - Eddy Covariance InstrumentationFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=144)
 * [Tristan Quaife - Remote sensing for carbon cycle scienceFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=148)
 * [Russ Monson - The Eddy FluxFile](http://www.fluxcourse.org/moodle/mod/resource/view.php?id=152)
